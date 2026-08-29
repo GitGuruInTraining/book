@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "知识图谱.excalidraw",
-      "path": "西方哲学史讲演录/白板/知识图谱.excalidraw.md"
+      "basename": "知识图谱",
+      "path": "西方哲学史讲演录/白板/知识图谱.canvas"
     },
     {
-      "basename": "人物关系.excalidraw",
-      "path": "西方哲学史讲演录/白板/人物关系.excalidraw.md"
+      "basename": "怎么用",
+      "path": "西方哲学史讲演录/白板/怎么用.md"
     },
     {
-      "basename": "全书线索.excalidraw",
-      "path": "西方哲学史讲演录/白板/全书线索.excalidraw.md"
-    },
-    {
-      "basename": "全书线索",
-      "path": "西方哲学史讲演录/白板/全书线索.canvas"
+      "basename": "知识图谱",
+      "path": "西方哲学史讲演录/白板/知识图谱.excalidraw"
     },
     {
       "basename": "西方哲学史讲演录",
       "path": "西方哲学史讲演录/西方哲学史讲演录.md"
     },
     {
-      "basename": "知识图谱",
-      "path": "西方哲学史讲演录/白板/知识图谱.canvas"
+      "basename": "四根说",
+      "path": "西方哲学史讲演录/术语/四根说.md"
+    },
+    {
+      "basename": "人物关系",
+      "path": "西方哲学史讲演录/白板/人物关系.canvas"
+    },
+    {
+      "basename": "全书线索",
+      "path": "西方哲学史讲演录/白板/全书线索.canvas"
     },
     {
       "basename": "复盘",
@@ -145,10 +149,6 @@
       "path": "西方哲学史讲演录/术语/原子.md"
     },
     {
-      "basename": "四根说",
-      "path": "西方哲学史讲演录/术语/四根说.md"
-    },
-    {
       "basename": "卢梭",
       "path": "西方哲学史讲演录/人物/卢梭.md"
     },
@@ -185,20 +185,12 @@
       "path": "西方哲学史讲演录/章节/11 康德的批判哲学.md"
     },
     {
-      "basename": "怎么用",
-      "path": "西方哲学史讲演录/白板/怎么用.md"
-    },
-    {
       "basename": "13 修订版后记",
       "path": "西方哲学史讲演录/章节/13 修订版后记.md"
     },
     {
       "basename": "12 从费希特到黑格尔",
       "path": "西方哲学史讲演录/章节/12 从费希特到黑格尔.md"
-    },
-    {
-      "basename": "10 18世纪法国启蒙哲学",
-      "path": "西方哲学史讲演录/章节/10 18世纪法国启蒙哲学.md"
     }
   ],
   "omittedPaths": [],

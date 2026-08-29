@@ -1,178 +1,77 @@
----
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
-  - 西方哲学史讲演录
----
-
-# Excalidraw Data
-
-## Text Elements
-认识线：尺度 · 白板 · 我思 · 感知 ^gl0000000000000078
-
-实践与绝对 ^gl0000000000000091
-
-质料线：从什么做成 ^gl000000000000005d
-
-形式线：何以如此 ^gl000000000000006b
-
-康德：先审理性 ^gl0000000000000087
-
-信仰母腹里的理性 ^gl00000000000000a0
-
-概念知识图谱（精选） ^T3
-
-形而上学 ^t000000000000006c
-
-正反合 ^t0000000000000097
-
-数本原 ^t000000000000006d
-
-存在 ^t000000000000006e
-
-理念 ^t000000000000006f
-
-实体 ^t0000000000000070
-
-白板说 ^t000000000000007a
-
-思维与存在的同一性 ^t000000000000007f
-
-密涅瓦的猫头鹰 ^t0000000000000098
-
-印象与观念 ^t000000000000007e
-
-绝对精神 ^t0000000000000096
-
-人是万物的尺度 ^t0000000000000079
-
-天赋观念 ^t000000000000007b
-
-绝对命令 ^t0000000000000092
-
-绝对自我 ^t0000000000000094
-
-我思故我在 ^t000000000000007c
-
-绝对同一 ^t0000000000000095
-
-共相 ^t0000000000000071
-
-二律背反 ^t0000000000000093
-
-存在就是被感知 ^t000000000000007d
-
-先天综合判断 ^t0000000000000088
-
-物自体 ^t0000000000000089
-
-范畴 ^t000000000000008a
-
-人给自然立法 ^t000000000000008b
-
-信仰寻求理解 ^t00000000000000a1
-
-本体论证明 ^t00000000000000a2
-
-理性法庭 ^t00000000000000a3
-
-四根说 ^t0000000000000062
-
-本原 ^t000000000000005e
-
-努斯 ^t0000000000000064
-
-原子 ^t0000000000000061
-
-种子说 ^t0000000000000063
-
-阿派朗 ^t0000000000000060
-
-自然哲学 ^t000000000000005f
-
-火本原说 ^t00000000000000e0
-
-逻各斯 ^t00000000000000e1
-
-辩证法 ^t00000000000000e2
-
-虚空 ^t00000000000000e3
-
-太一 ^t00000000000000e4
-
-四因说 ^t00000000000000e5
-
-一条路 ^l0000000000000065
-
-构造论 ^l0000000000000069
-
-动力 ^l000000000000006a
-
-另一条路 ^l0000000000000072
-
-存在 → 理念 ^l0000000000000075
-
-外在 → 寓于 ^l0000000000000076
-
-中世重演 ^l0000000000000077
-
-经验方向 ^l0000000000000080
-
-对打 ^l0000000000000081
-
-唯理论起点 ^l0000000000000082
-
-贯彻下去 ^l0000000000000083
-
-休谟 ^l0000000000000084
-
-巴门尼德 ^l0000000000000085
-
-近代重问 ^l0000000000000086
-
-惊醒 ^l000000000000008c
-
-必然从哪来 ^l000000000000008d
-
-质料 ^l000000000000008e
-
-形式 ^l000000000000008f
-
-越界 ^l0000000000000099
-
-取消物自体 ^l000000000000009a
-
-行动 ^l000000000000009b
-
-骨架 ^l000000000000009e
-
-黄昏起飞 ^l000000000000009f
-
-律师变公诉人 ^l00000000000000a5
-
-第三背景 ^l00000000000000a6
-
-一种本原走到头 ^l00000000000000e6
-
-分寸 ^l00000000000000e7
-
-复线接到存在 ^l00000000000000e8
-
-变·对·度 ^l00000000000000e9
-
-非存在也存在 ^l00000000000000ea
-
-再神秘化 ^l00000000000000eb
-
-何以生成 ^l00000000000000ec
-%%
-## Drawing
-```json
 {
   "type": "excalidraw",
   "version": 2,
   "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.26.4",
   "elements": [
+    {
+      "id": "g000000000000005d",
+      "type": "rectangle",
+      "x": -160.0,
+      "y": 278.0,
+      "width": 3740.0,
+      "height": 609.0,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#d3f9d8",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "c1",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14930,
+      "version": 3,
+      "versionNonce": 14931,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "gl000000000000005d",
+      "type": "text",
+      "x": -144.0,
+      "y": 290.0,
+      "width": 197.0,
+      "height": 27.0,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "c2",
+      "roundness": null,
+      "seed": 14932,
+      "version": 3,
+      "versionNonce": 14933,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": false,
+      "customData": null,
+      "text": "质料线：从什么做成",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "质料线：从什么做成",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
     {
       "id": "g0000000000000078",
       "type": "rectangle",
@@ -190,13 +89,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a1",
+      "index": "c3",
       "roundness": {
         "type": 3
       },
-      "seed": 6338,
-      "version": 2,
-      "versionNonce": 6339,
+      "seed": 14934,
+      "version": 3,
+      "versionNonce": 14935,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -221,11 +120,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a2",
+      "index": "c4",
       "roundness": null,
-      "seed": 6340,
-      "version": 2,
-      "versionNonce": 6341,
+      "seed": 14936,
+      "version": 3,
+      "versionNonce": 14937,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -259,13 +158,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a3",
+      "index": "c5",
       "roundness": {
         "type": 3
       },
-      "seed": 6342,
-      "version": 2,
-      "versionNonce": 6343,
+      "seed": 14938,
+      "version": 3,
+      "versionNonce": 14939,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -290,11 +189,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a4",
+      "index": "c6",
       "roundness": null,
-      "seed": 6344,
-      "version": 2,
-      "versionNonce": 6345,
+      "seed": 14940,
+      "version": 3,
+      "versionNonce": 14941,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -308,75 +207,6 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "实践与绝对",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "g000000000000005d",
-      "type": "rectangle",
-      "x": -160.0,
-      "y": 278.0,
-      "width": 3740.0,
-      "height": 609.0,
-      "angle": 0,
-      "strokeColor": "#2f9e44",
-      "backgroundColor": "#d3f9d8",
-      "fillStyle": "hachure",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "a5",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6346,
-      "version": 2,
-      "versionNonce": 6347,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "gl000000000000005d",
-      "type": "text",
-      "x": -144.0,
-      "y": 290.0,
-      "width": 197.0,
-      "height": 27.0,
-      "angle": 0,
-      "strokeColor": "#2f9e44",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "a6",
-      "roundness": null,
-      "seed": 6348,
-      "version": 2,
-      "versionNonce": 6349,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": false,
-      "customData": null,
-      "text": "质料线：从什么做成",
-      "fontSize": 20,
-      "fontFamily": 5,
-      "textAlign": "left",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "质料线：从什么做成",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -397,13 +227,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a7",
+      "index": "c7",
       "roundness": {
         "type": 3
       },
-      "seed": 6350,
-      "version": 2,
-      "versionNonce": 6351,
+      "seed": 14942,
+      "version": 3,
+      "versionNonce": 14943,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -428,11 +258,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a8",
+      "index": "c8",
       "roundness": null,
-      "seed": 6352,
-      "version": 2,
-      "versionNonce": 6353,
+      "seed": 14944,
+      "version": 3,
+      "versionNonce": 14945,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -466,13 +296,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a9",
+      "index": "c9",
       "roundness": {
         "type": 3
       },
-      "seed": 6354,
-      "version": 2,
-      "versionNonce": 6355,
+      "seed": 14946,
+      "version": 3,
+      "versionNonce": 14947,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -497,11 +327,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "aa",
+      "index": "ca",
       "roundness": null,
-      "seed": 6356,
-      "version": 2,
-      "versionNonce": 6357,
+      "seed": 14948,
+      "version": 3,
+      "versionNonce": 14949,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -535,13 +365,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "ab",
+      "index": "cb",
       "roundness": {
         "type": 3
       },
-      "seed": 6358,
-      "version": 2,
-      "versionNonce": 6359,
+      "seed": 14950,
+      "version": 3,
+      "versionNonce": 14951,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -566,11 +396,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "ac",
+      "index": "cc",
       "roundness": null,
-      "seed": 6360,
-      "version": 2,
-      "versionNonce": 6361,
+      "seed": 14952,
+      "version": 3,
+      "versionNonce": 14953,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -604,11 +434,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "acd",
+      "index": "ccd",
       "roundness": null,
-      "seed": 4087,
-      "version": 2,
-      "versionNonce": 4088,
+      "seed": 13840,
+      "version": 3,
+      "versionNonce": 13841,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -622,6 +452,572 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "概念知识图谱（精选）",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c000000000000005e",
+      "type": "rectangle",
+      "x": -92.0,
+      "y": 452.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000005e"
+      ],
+      "frameId": null,
+      "index": "cd",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14954,
+      "version": 3,
+      "versionNonce": 14955,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000065",
+          "type": "arrow"
+        },
+        {
+          "id": "a0000000000000072",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[本原]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t000000000000005e",
+      "type": "text",
+      "x": -12.799999999999997,
+      "y": 486.2,
+      "width": 41.6,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000005e"
+      ],
+      "frameId": null,
+      "index": "ce",
+      "roundness": null,
+      "seed": 14956,
+      "version": 3,
+      "versionNonce": 14957,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "本原",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "本原",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c0000000000000064",
+      "type": "rectangle",
+      "x": 2186.0,
+      "y": 655.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000064"
+      ],
+      "frameId": null,
+      "index": "cf",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14958,
+      "version": 3,
+      "versionNonce": 14959,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a000000000000006a",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[努斯]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t0000000000000064",
+      "type": "text",
+      "x": 2265.2,
+      "y": 689.2,
+      "width": 41.6,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000064"
+      ],
+      "frameId": null,
+      "index": "c10",
+      "roundness": null,
+      "seed": 14960,
+      "version": 3,
+      "versionNonce": 14961,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "努斯",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "努斯",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c0000000000000061",
+      "type": "rectangle",
+      "x": 2628.0,
+      "y": 452.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000061"
+      ],
+      "frameId": null,
+      "index": "c11",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14962,
+      "version": 3,
+      "versionNonce": 14963,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000069",
+          "type": "arrow"
+        },
+        {
+          "id": "a00000000000000ea",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[原子]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t0000000000000061",
+      "type": "text",
+      "x": 2707.2,
+      "y": 486.2,
+      "width": 41.6,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000061"
+      ],
+      "frameId": null,
+      "index": "c12",
+      "roundness": null,
+      "seed": 14964,
+      "version": 3,
+      "versionNonce": 14965,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "原子",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "原子",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c0000000000000063",
+      "type": "rectangle",
+      "x": 2186.0,
+      "y": 452.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000063"
+      ],
+      "frameId": null,
+      "index": "c13",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14966,
+      "version": 3,
+      "versionNonce": 14967,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000068",
+          "type": "arrow"
+        },
+        {
+          "id": "a0000000000000069",
+          "type": "arrow"
+        },
+        {
+          "id": "a000000000000006a",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[种子说]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t0000000000000063",
+      "type": "text",
+      "x": 2256.8,
+      "y": 486.2,
+      "width": 58.400000000000006,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000063"
+      ],
+      "frameId": null,
+      "index": "c14",
+      "roundness": null,
+      "seed": 14968,
+      "version": 3,
+      "versionNonce": 14969,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "种子说",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "种子说",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c000000000000005f",
+      "type": "rectangle",
+      "x": 520.0,
+      "y": 452.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000005f"
+      ],
+      "frameId": null,
+      "index": "c15",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14970,
+      "version": 3,
+      "versionNonce": 14971,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000065",
+          "type": "arrow"
+        },
+        {
+          "id": "a0000000000000066",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[自然哲学]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t000000000000005f",
+      "type": "text",
+      "x": 582.4,
+      "y": 486.2,
+      "width": 75.2,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000005f"
+      ],
+      "frameId": null,
+      "index": "c16",
+      "roundness": null,
+      "seed": 14972,
+      "version": 3,
+      "versionNonce": 14973,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "自然哲学",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "自然哲学",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c00000000000000e2",
+      "type": "rectangle",
+      "x": 2628.0,
+      "y": 655.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k00000000000000e2"
+      ],
+      "frameId": null,
+      "index": "c17",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14974,
+      "version": 3,
+      "versionNonce": 14975,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a00000000000000e9",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[辩证法]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t00000000000000e2",
+      "type": "text",
+      "x": 2698.8,
+      "y": 689.2,
+      "width": 58.400000000000006,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k00000000000000e2"
+      ],
+      "frameId": null,
+      "index": "c18",
+      "roundness": null,
+      "seed": 14976,
+      "version": 3,
+      "versionNonce": 14977,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "辩证法",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "辩证法",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c00000000000000e3",
+      "type": "rectangle",
+      "x": 3036.0,
+      "y": 452.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k00000000000000e3"
+      ],
+      "frameId": null,
+      "index": "c19",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14978,
+      "version": 3,
+      "versionNonce": 14979,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a00000000000000ea",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[虚空]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t00000000000000e3",
+      "type": "text",
+      "x": 3115.2,
+      "y": 486.2,
+      "width": 41.6,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k00000000000000e3"
+      ],
+      "frameId": null,
+      "index": "c1a",
+      "roundness": null,
+      "seed": 14980,
+      "version": 3,
+      "versionNonce": 14981,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "虚空",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "虚空",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -644,13 +1040,13 @@ tags:
         "k000000000000006c"
       ],
       "frameId": null,
-      "index": "ad",
+      "index": "c1b",
       "roundness": {
         "type": 3
       },
-      "seed": 6362,
-      "version": 2,
-      "versionNonce": 6363,
+      "seed": 14982,
+      "version": 3,
+      "versionNonce": 14983,
       "isDeleted": false,
       "boundElements": [
         {
@@ -686,11 +1082,11 @@ tags:
         "k000000000000006c"
       ],
       "frameId": null,
-      "index": "ae",
+      "index": "c1c",
       "roundness": null,
-      "seed": 6364,
-      "version": 2,
-      "versionNonce": 6365,
+      "seed": 14984,
+      "version": 3,
+      "versionNonce": 14985,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -726,13 +1122,13 @@ tags:
         "k0000000000000097"
       ],
       "frameId": null,
-      "index": "af",
+      "index": "c1d",
       "roundness": {
         "type": 3
       },
-      "seed": 6366,
-      "version": 2,
-      "versionNonce": 6367,
+      "seed": 14986,
+      "version": 3,
+      "versionNonce": 14987,
       "isDeleted": false,
       "boundElements": [
         {
@@ -764,11 +1160,11 @@ tags:
         "k0000000000000097"
       ],
       "frameId": null,
-      "index": "a10",
+      "index": "c1e",
       "roundness": null,
-      "seed": 6368,
-      "version": 2,
-      "versionNonce": 6369,
+      "seed": 14988,
+      "version": 3,
+      "versionNonce": 14989,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -804,13 +1200,13 @@ tags:
         "k000000000000006d"
       ],
       "frameId": null,
-      "index": "a11",
+      "index": "c1f",
       "roundness": {
         "type": 3
       },
-      "seed": 6370,
-      "version": 2,
-      "versionNonce": 6371,
+      "seed": 14990,
+      "version": 3,
+      "versionNonce": 14991,
       "isDeleted": false,
       "boundElements": [
         {
@@ -846,11 +1242,11 @@ tags:
         "k000000000000006d"
       ],
       "frameId": null,
-      "index": "a12",
+      "index": "c20",
       "roundness": null,
-      "seed": 6372,
-      "version": 2,
-      "versionNonce": 6373,
+      "seed": 14992,
+      "version": 3,
+      "versionNonce": 14993,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -864,6 +1260,490 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "数本原",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c000000000000007f",
+      "type": "rectangle",
+      "x": 2730.0,
+      "y": 945.0,
+      "width": 260.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000007f"
+      ],
+      "frameId": null,
+      "index": "c21",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14994,
+      "version": 3,
+      "versionNonce": 14995,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000085",
+          "type": "arrow"
+        },
+        {
+          "id": "a0000000000000086",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[思维与存在的同一性]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t000000000000007f",
+      "type": "text",
+      "x": 2780.4,
+      "y": 979.2,
+      "width": 159.20000000000002,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000007f"
+      ],
+      "frameId": null,
+      "index": "c22",
+      "roundness": null,
+      "seed": 14996,
+      "version": 3,
+      "versionNonce": 14997,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "思维与存在的同一性",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "思维与存在的同一性",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c0000000000000098",
+      "type": "rectangle",
+      "x": 2628.0,
+      "y": 1438.0,
+      "width": 240.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000098"
+      ],
+      "frameId": null,
+      "index": "c23",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 14998,
+      "version": 3,
+      "versionNonce": 14999,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a000000000000009f",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[密涅瓦的猫头鹰]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t0000000000000098",
+      "type": "text",
+      "x": 2685.2,
+      "y": 1472.2,
+      "width": 125.6,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000098"
+      ],
+      "frameId": null,
+      "index": "c24",
+      "roundness": null,
+      "seed": 15000,
+      "version": 3,
+      "versionNonce": 15001,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "密涅瓦的猫头鹰",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "密涅瓦的猫头鹰",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c000000000000007e",
+      "type": "rectangle",
+      "x": 2390.0,
+      "y": 945.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000007e"
+      ],
+      "frameId": null,
+      "index": "c25",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 15002,
+      "version": 3,
+      "versionNonce": 15003,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000084",
+          "type": "arrow"
+        },
+        {
+          "id": "a000000000000008c",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[印象与观念]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t000000000000007e",
+      "type": "text",
+      "x": 2444.0,
+      "y": 979.2,
+      "width": 92.0,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000007e"
+      ],
+      "frameId": null,
+      "index": "c26",
+      "roundness": null,
+      "seed": 15004,
+      "version": 3,
+      "versionNonce": 15005,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "印象与观念",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "印象与观念",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c0000000000000094",
+      "type": "rectangle",
+      "x": 996.0,
+      "y": 1438.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000094"
+      ],
+      "frameId": null,
+      "index": "c27",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 15006,
+      "version": 3,
+      "versionNonce": 15007,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a000000000000009a",
+          "type": "arrow"
+        },
+        {
+          "id": "a000000000000009b",
+          "type": "arrow"
+        },
+        {
+          "id": "a000000000000009c",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[绝对自我]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t0000000000000094",
+      "type": "text",
+      "x": 1058.4,
+      "y": 1472.2,
+      "width": 75.2,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000094"
+      ],
+      "frameId": null,
+      "index": "c28",
+      "roundness": null,
+      "seed": 15008,
+      "version": 3,
+      "versionNonce": 15009,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "绝对自我",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "绝对自我",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c00000000000000e4",
+      "type": "rectangle",
+      "x": 5280.0,
+      "y": 655.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k00000000000000e4"
+      ],
+      "frameId": null,
+      "index": "c29",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 15010,
+      "version": 3,
+      "versionNonce": 15011,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a00000000000000eb",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[太一]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t00000000000000e4",
+      "type": "text",
+      "x": 5359.2,
+      "y": 689.2,
+      "width": 41.6,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k00000000000000e4"
+      ],
+      "frameId": null,
+      "index": "c2a",
+      "roundness": null,
+      "seed": 15012,
+      "version": 3,
+      "versionNonce": 15013,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "太一",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "太一",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c00000000000000e5",
+      "type": "rectangle",
+      "x": 4872.0,
+      "y": 655.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k00000000000000e5"
+      ],
+      "frameId": null,
+      "index": "c2b",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 15014,
+      "version": 3,
+      "versionNonce": 15015,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a00000000000000ec",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[四因说]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t00000000000000e5",
+      "type": "text",
+      "x": 4942.8,
+      "y": 689.2,
+      "width": 58.400000000000006,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k00000000000000e5"
+      ],
+      "frameId": null,
+      "index": "c2c",
+      "roundness": null,
+      "seed": 15016,
+      "version": 3,
+      "versionNonce": 15017,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "四因说",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "四因说",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -886,13 +1766,13 @@ tags:
         "k000000000000006e"
       ],
       "frameId": null,
-      "index": "a13",
+      "index": "c2d",
       "roundness": {
         "type": 3
       },
-      "seed": 6374,
-      "version": 2,
-      "versionNonce": 6375,
+      "seed": 15018,
+      "version": 3,
+      "versionNonce": 15019,
       "isDeleted": false,
       "boundElements": [
         {
@@ -936,11 +1816,11 @@ tags:
         "k000000000000006e"
       ],
       "frameId": null,
-      "index": "a14",
+      "index": "c2e",
       "roundness": null,
-      "seed": 6376,
-      "version": 2,
-      "versionNonce": 6377,
+      "seed": 15020,
+      "version": 3,
+      "versionNonce": 15021,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -976,13 +1856,13 @@ tags:
         "k000000000000006f"
       ],
       "frameId": null,
-      "index": "a15",
+      "index": "c2f",
       "roundness": {
         "type": 3
       },
-      "seed": 6378,
-      "version": 2,
-      "versionNonce": 6379,
+      "seed": 15022,
+      "version": 3,
+      "versionNonce": 15023,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1022,11 +1902,11 @@ tags:
         "k000000000000006f"
       ],
       "frameId": null,
-      "index": "a16",
+      "index": "c30",
       "roundness": null,
-      "seed": 6380,
-      "version": 2,
-      "versionNonce": 6381,
+      "seed": 15024,
+      "version": 3,
+      "versionNonce": 15025,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1062,13 +1942,13 @@ tags:
         "k0000000000000070"
       ],
       "frameId": null,
-      "index": "a17",
+      "index": "c31",
       "roundness": {
         "type": 3
       },
-      "seed": 6382,
-      "version": 2,
-      "versionNonce": 6383,
+      "seed": 15026,
+      "version": 3,
+      "versionNonce": 15027,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1108,11 +1988,11 @@ tags:
         "k0000000000000070"
       ],
       "frameId": null,
-      "index": "a18",
+      "index": "c32",
       "roundness": null,
-      "seed": 6384,
-      "version": 2,
-      "versionNonce": 6385,
+      "seed": 15028,
+      "version": 3,
+      "versionNonce": 15029,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1126,334 +2006,6 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "实体",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c000000000000007a",
-      "type": "rectangle",
-      "x": 622.0,
-      "y": 945.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000007a"
-      ],
-      "frameId": null,
-      "index": "a19",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6386,
-      "version": 2,
-      "versionNonce": 6387,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000080",
-          "type": "arrow"
-        },
-        {
-          "id": "a0000000000000081",
-          "type": "arrow"
-        },
-        {
-          "id": "a0000000000000083",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[白板说]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t000000000000007a",
-      "type": "text",
-      "x": 692.8,
-      "y": 979.2,
-      "width": 58.400000000000006,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000007a"
-      ],
-      "frameId": null,
-      "index": "a1a",
-      "roundness": null,
-      "seed": 6388,
-      "version": 2,
-      "versionNonce": 6389,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "白板说",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "白板说",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c000000000000007f",
-      "type": "rectangle",
-      "x": 2730.0,
-      "y": 945.0,
-      "width": 260.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000007f"
-      ],
-      "frameId": null,
-      "index": "a1b",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6390,
-      "version": 2,
-      "versionNonce": 6391,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000085",
-          "type": "arrow"
-        },
-        {
-          "id": "a0000000000000086",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[思维与存在的同一性]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t000000000000007f",
-      "type": "text",
-      "x": 2780.4,
-      "y": 979.2,
-      "width": 159.20000000000002,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000007f"
-      ],
-      "frameId": null,
-      "index": "a1c",
-      "roundness": null,
-      "seed": 6392,
-      "version": 2,
-      "versionNonce": 6393,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "思维与存在的同一性",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "思维与存在的同一性",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c0000000000000098",
-      "type": "rectangle",
-      "x": 2628.0,
-      "y": 1438.0,
-      "width": 240.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000098"
-      ],
-      "frameId": null,
-      "index": "a1d",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6394,
-      "version": 2,
-      "versionNonce": 6395,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a000000000000009f",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[密涅瓦的猫头鹰]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t0000000000000098",
-      "type": "text",
-      "x": 2685.2,
-      "y": 1472.2,
-      "width": 125.6,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000098"
-      ],
-      "frameId": null,
-      "index": "a1e",
-      "roundness": null,
-      "seed": 6396,
-      "version": 2,
-      "versionNonce": 6397,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "密涅瓦的猫头鹰",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "密涅瓦的猫头鹰",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c000000000000007e",
-      "type": "rectangle",
-      "x": 2390.0,
-      "y": 945.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000007e"
-      ],
-      "frameId": null,
-      "index": "a1f",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6398,
-      "version": 2,
-      "versionNonce": 6399,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000084",
-          "type": "arrow"
-        },
-        {
-          "id": "a000000000000008c",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[印象与观念]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t000000000000007e",
-      "type": "text",
-      "x": 2444.0,
-      "y": 979.2,
-      "width": 92.0,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000007e"
-      ],
-      "frameId": null,
-      "index": "a20",
-      "roundness": null,
-      "seed": 6400,
-      "version": 2,
-      "versionNonce": 6401,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "印象与观念",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "印象与观念",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -1476,13 +2028,13 @@ tags:
         "k0000000000000096"
       ],
       "frameId": null,
-      "index": "a21",
+      "index": "c33",
       "roundness": {
         "type": 3
       },
-      "seed": 6402,
-      "version": 2,
-      "versionNonce": 6403,
+      "seed": 15030,
+      "version": 3,
+      "versionNonce": 15031,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1522,11 +2074,11 @@ tags:
         "k0000000000000096"
       ],
       "frameId": null,
-      "index": "a22",
+      "index": "c34",
       "roundness": null,
-      "seed": 6404,
-      "version": 2,
-      "versionNonce": 6405,
+      "seed": 15032,
+      "version": 3,
+      "versionNonce": 15033,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1540,84 +2092,6 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "绝对精神",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c0000000000000079",
-      "type": "rectangle",
-      "x": 180.0,
-      "y": 945.0,
-      "width": 220.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000079"
-      ],
-      "frameId": null,
-      "index": "a23",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6406,
-      "version": 2,
-      "versionNonce": 6407,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000080",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[人是万物的尺度]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t0000000000000079",
-      "type": "text",
-      "x": 227.2,
-      "y": 979.2,
-      "width": 125.6,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000079"
-      ],
-      "frameId": null,
-      "index": "a24",
-      "roundness": null,
-      "seed": 6408,
-      "version": 2,
-      "versionNonce": 6409,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "人是万物的尺度",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "人是万物的尺度",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -1640,13 +2114,13 @@ tags:
         "k000000000000007b"
       ],
       "frameId": null,
-      "index": "a25",
+      "index": "c35",
       "roundness": {
         "type": 3
       },
-      "seed": 6410,
-      "version": 2,
-      "versionNonce": 6411,
+      "seed": 15034,
+      "version": 3,
+      "versionNonce": 15035,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1682,11 +2156,11 @@ tags:
         "k000000000000007b"
       ],
       "frameId": null,
-      "index": "a26",
+      "index": "c36",
       "roundness": null,
-      "seed": 6412,
-      "version": 2,
-      "versionNonce": 6413,
+      "seed": 15036,
+      "version": 3,
+      "versionNonce": 15037,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1700,170 +2174,6 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "天赋观念",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c0000000000000092",
-      "type": "rectangle",
-      "x": 180.0,
-      "y": 1438.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000092"
-      ],
-      "frameId": null,
-      "index": "a27",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6414,
-      "version": 2,
-      "versionNonce": 6415,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a000000000000009b",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[绝对命令]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t0000000000000092",
-      "type": "text",
-      "x": 242.4,
-      "y": 1472.2,
-      "width": 75.2,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000092"
-      ],
-      "frameId": null,
-      "index": "a28",
-      "roundness": null,
-      "seed": 6416,
-      "version": 2,
-      "versionNonce": 6417,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "绝对命令",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "绝对命令",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c0000000000000094",
-      "type": "rectangle",
-      "x": 996.0,
-      "y": 1438.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000094"
-      ],
-      "frameId": null,
-      "index": "a29",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6418,
-      "version": 2,
-      "versionNonce": 6419,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a000000000000009a",
-          "type": "arrow"
-        },
-        {
-          "id": "a000000000000009b",
-          "type": "arrow"
-        },
-        {
-          "id": "a000000000000009c",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[绝对自我]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t0000000000000094",
-      "type": "text",
-      "x": 1058.4,
-      "y": 1472.2,
-      "width": 75.2,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000094"
-      ],
-      "frameId": null,
-      "index": "a2a",
-      "roundness": null,
-      "seed": 6420,
-      "version": 2,
-      "versionNonce": 6421,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "绝对自我",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "绝对自我",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -1886,13 +2196,13 @@ tags:
         "k000000000000007c"
       ],
       "frameId": null,
-      "index": "a2b",
+      "index": "c37",
       "roundness": {
         "type": 3
       },
-      "seed": 6422,
-      "version": 2,
-      "versionNonce": 6423,
+      "seed": 15038,
+      "version": 3,
+      "versionNonce": 15039,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1932,11 +2242,11 @@ tags:
         "k000000000000007c"
       ],
       "frameId": null,
-      "index": "a2c",
+      "index": "c38",
       "roundness": null,
-      "seed": 6424,
-      "version": 2,
-      "versionNonce": 6425,
+      "seed": 15040,
+      "version": 3,
+      "versionNonce": 15041,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1972,13 +2282,13 @@ tags:
         "k0000000000000095"
       ],
       "frameId": null,
-      "index": "a2d",
+      "index": "c39",
       "roundness": {
         "type": 3
       },
-      "seed": 6426,
-      "version": 2,
-      "versionNonce": 6427,
+      "seed": 15042,
+      "version": 3,
+      "versionNonce": 15043,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2014,11 +2324,11 @@ tags:
         "k0000000000000095"
       ],
       "frameId": null,
-      "index": "a2e",
+      "index": "c3a",
       "roundness": null,
-      "seed": 6428,
-      "version": 2,
-      "versionNonce": 6429,
+      "seed": 15044,
+      "version": 3,
+      "versionNonce": 15045,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2054,13 +2364,13 @@ tags:
         "k0000000000000071"
       ],
       "frameId": null,
-      "index": "a2f",
+      "index": "c3b",
       "roundness": {
         "type": 3
       },
-      "seed": 6430,
-      "version": 2,
-      "versionNonce": 6431,
+      "seed": 15046,
+      "version": 3,
+      "versionNonce": 15047,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2092,11 +2402,11 @@ tags:
         "k0000000000000071"
       ],
       "frameId": null,
-      "index": "a30",
+      "index": "c3c",
       "roundness": null,
-      "seed": 6432,
-      "version": 2,
-      "versionNonce": 6433,
+      "seed": 15048,
+      "version": 3,
+      "versionNonce": 15049,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2110,166 +2420,6 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "共相",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c0000000000000093",
-      "type": "rectangle",
-      "x": 588.0,
-      "y": 1438.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000093"
-      ],
-      "frameId": null,
-      "index": "a31",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6434,
-      "version": 2,
-      "versionNonce": 6435,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000099",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[二律背反]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t0000000000000093",
-      "type": "text",
-      "x": 650.4,
-      "y": 1472.2,
-      "width": 75.2,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000093"
-      ],
-      "frameId": null,
-      "index": "a32",
-      "roundness": null,
-      "seed": 6436,
-      "version": 2,
-      "versionNonce": 6437,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "二律背反",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "二律背反",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c000000000000007d",
-      "type": "rectangle",
-      "x": 1846.0,
-      "y": 945.0,
-      "width": 240.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000007d"
-      ],
-      "frameId": null,
-      "index": "a33",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6438,
-      "version": 2,
-      "versionNonce": 6439,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000083",
-          "type": "arrow"
-        },
-        {
-          "id": "a0000000000000084",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[存在就是被感知]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t000000000000007d",
-      "type": "text",
-      "x": 1903.2,
-      "y": 979.2,
-      "width": 125.6,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000007d"
-      ],
-      "frameId": null,
-      "index": "a34",
-      "roundness": null,
-      "seed": 6440,
-      "version": 2,
-      "versionNonce": 6441,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "存在就是被感知",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "存在就是被感知",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -2292,13 +2442,13 @@ tags:
         "k0000000000000088"
       ],
       "frameId": null,
-      "index": "a35",
+      "index": "c3d",
       "roundness": {
         "type": 3
       },
-      "seed": 6442,
-      "version": 2,
-      "versionNonce": 6443,
+      "seed": 15050,
+      "version": 3,
+      "versionNonce": 15051,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2346,11 +2496,11 @@ tags:
         "k0000000000000088"
       ],
       "frameId": null,
-      "index": "a36",
+      "index": "c3e",
       "roundness": null,
-      "seed": 6444,
-      "version": 2,
-      "versionNonce": 6445,
+      "seed": 15052,
+      "version": 3,
+      "versionNonce": 15053,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2386,13 +2536,13 @@ tags:
         "k0000000000000089"
       ],
       "frameId": null,
-      "index": "a37",
+      "index": "c3f",
       "roundness": {
         "type": 3
       },
-      "seed": 6446,
-      "version": 2,
-      "versionNonce": 6447,
+      "seed": 15054,
+      "version": 3,
+      "versionNonce": 15055,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2428,11 +2578,11 @@ tags:
         "k0000000000000089"
       ],
       "frameId": null,
-      "index": "a38",
+      "index": "c40",
       "roundness": null,
-      "seed": 6448,
-      "version": 2,
-      "versionNonce": 6449,
+      "seed": 15056,
+      "version": 3,
+      "versionNonce": 15057,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2446,6 +2596,252 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "物自体",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c000000000000007a",
+      "type": "rectangle",
+      "x": 622.0,
+      "y": 945.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000007a"
+      ],
+      "frameId": null,
+      "index": "c41",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 15058,
+      "version": 3,
+      "versionNonce": 15059,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000080",
+          "type": "arrow"
+        },
+        {
+          "id": "a0000000000000081",
+          "type": "arrow"
+        },
+        {
+          "id": "a0000000000000083",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[白板说]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t000000000000007a",
+      "type": "text",
+      "x": 692.8,
+      "y": 979.2,
+      "width": 58.400000000000006,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000007a"
+      ],
+      "frameId": null,
+      "index": "c42",
+      "roundness": null,
+      "seed": 15060,
+      "version": 3,
+      "versionNonce": 15061,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "白板说",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "白板说",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c0000000000000093",
+      "type": "rectangle",
+      "x": 588.0,
+      "y": 1438.0,
+      "width": 200.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000093"
+      ],
+      "frameId": null,
+      "index": "c43",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 15062,
+      "version": 3,
+      "versionNonce": 15063,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000099",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[二律背反]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t0000000000000093",
+      "type": "text",
+      "x": 650.4,
+      "y": 1472.2,
+      "width": 75.2,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k0000000000000093"
+      ],
+      "frameId": null,
+      "index": "c44",
+      "roundness": null,
+      "seed": 15064,
+      "version": 3,
+      "versionNonce": 15065,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "二律背反",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "二律背反",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "c000000000000007d",
+      "type": "rectangle",
+      "x": 1846.0,
+      "y": 945.0,
+      "width": 240.0,
+      "height": 90.0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffffff",
+      "fillStyle": "solid",
+      "strokeWidth": 1.5,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000007d"
+      ],
+      "frameId": null,
+      "index": "c45",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 15066,
+      "version": 3,
+      "versionNonce": 15067,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "a0000000000000083",
+          "type": "arrow"
+        },
+        {
+          "id": "a0000000000000084",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1,
+      "link": "[[存在就是被感知]]",
+      "locked": false,
+      "customData": null
+    },
+    {
+      "id": "t000000000000007d",
+      "type": "text",
+      "x": 1903.2,
+      "y": 979.2,
+      "width": 125.6,
+      "height": 21.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [
+        "k000000000000007d"
+      ],
+      "frameId": null,
+      "index": "c46",
+      "roundness": null,
+      "seed": 15068,
+      "version": 3,
+      "versionNonce": 15069,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1,
+      "link": null,
+      "locked": true,
+      "customData": null,
+      "text": "存在就是被感知",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "存在就是被感知",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -2468,13 +2864,13 @@ tags:
         "k000000000000008a"
       ],
       "frameId": null,
-      "index": "a39",
+      "index": "c47",
       "roundness": {
         "type": 3
       },
-      "seed": 6450,
-      "version": 2,
-      "versionNonce": 6451,
+      "seed": 15070,
+      "version": 3,
+      "versionNonce": 15071,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2510,11 +2906,11 @@ tags:
         "k000000000000008a"
       ],
       "frameId": null,
-      "index": "a3a",
+      "index": "c48",
       "roundness": null,
-      "seed": 6452,
-      "version": 2,
-      "versionNonce": 6453,
+      "seed": 15072,
+      "version": 3,
+      "versionNonce": 15073,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2550,13 +2946,13 @@ tags:
         "k000000000000008b"
       ],
       "frameId": null,
-      "index": "a3b",
+      "index": "c49",
       "roundness": {
         "type": 3
       },
-      "seed": 6454,
-      "version": 2,
-      "versionNonce": 6455,
+      "seed": 15074,
+      "version": 3,
+      "versionNonce": 15075,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2592,11 +2988,11 @@ tags:
         "k000000000000008b"
       ],
       "frameId": null,
-      "index": "a3c",
+      "index": "c4a",
       "roundness": null,
-      "seed": 6456,
-      "version": 2,
-      "versionNonce": 6457,
+      "seed": 15076,
+      "version": 3,
+      "versionNonce": 15077,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2632,13 +3028,13 @@ tags:
         "k00000000000000a1"
       ],
       "frameId": null,
-      "index": "a3d",
+      "index": "c4b",
       "roundness": {
         "type": 3
       },
-      "seed": 6458,
-      "version": 2,
-      "versionNonce": 6459,
+      "seed": 15078,
+      "version": 3,
+      "versionNonce": 15079,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2670,11 +3066,11 @@ tags:
         "k00000000000000a1"
       ],
       "frameId": null,
-      "index": "a3e",
+      "index": "c4c",
       "roundness": null,
-      "seed": 6460,
-      "version": 2,
-      "versionNonce": 6461,
+      "seed": 15080,
+      "version": 3,
+      "versionNonce": 15081,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2710,13 +3106,13 @@ tags:
         "k00000000000000a2"
       ],
       "frameId": null,
-      "index": "a3f",
+      "index": "c4d",
       "roundness": {
         "type": 3
       },
-      "seed": 6462,
-      "version": 2,
-      "versionNonce": 6463,
+      "seed": 15082,
+      "version": 3,
+      "versionNonce": 15083,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2752,11 +3148,11 @@ tags:
         "k00000000000000a2"
       ],
       "frameId": null,
-      "index": "a40",
+      "index": "c4e",
       "roundness": null,
-      "seed": 6464,
-      "version": 2,
-      "versionNonce": 6465,
+      "seed": 15084,
+      "version": 3,
+      "versionNonce": 15085,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2792,13 +3188,13 @@ tags:
         "k00000000000000a3"
       ],
       "frameId": null,
-      "index": "a41",
+      "index": "c4f",
       "roundness": {
         "type": 3
       },
-      "seed": 6466,
-      "version": 2,
-      "versionNonce": 6467,
+      "seed": 15086,
+      "version": 3,
+      "versionNonce": 15087,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2834,11 +3230,11 @@ tags:
         "k00000000000000a3"
       ],
       "frameId": null,
-      "index": "a42",
+      "index": "c50",
       "roundness": null,
-      "seed": 6468,
-      "version": 2,
-      "versionNonce": 6469,
+      "seed": 15088,
+      "version": 3,
+      "versionNonce": 15089,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2856,11 +3252,11 @@ tags:
       "lineHeight": 1.25
     },
     {
-      "id": "c0000000000000062",
+      "id": "c0000000000000079",
       "type": "rectangle",
-      "x": 1778.0,
-      "y": 452.0,
-      "width": 200.0,
+      "x": 180.0,
+      "y": 945.0,
+      "width": 220.0,
       "height": 90.0,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -2871,38 +3267,34 @@ tags:
       "roughness": 1,
       "opacity": 100,
       "groupIds": [
-        "k0000000000000062"
+        "k0000000000000079"
       ],
       "frameId": null,
-      "index": "a43",
+      "index": "c51",
       "roundness": {
         "type": 3
       },
-      "seed": 6470,
-      "version": 2,
-      "versionNonce": 6471,
+      "seed": 15090,
+      "version": 3,
+      "versionNonce": 15091,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "a0000000000000068",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000e6",
+          "id": "a0000000000000080",
           "type": "arrow"
         }
       ],
       "updated": 1,
-      "link": "[[四根说]]",
+      "link": "[[人是万物的尺度]]",
       "locked": false,
       "customData": null
     },
     {
-      "id": "t0000000000000062",
+      "id": "t0000000000000079",
       "type": "text",
-      "x": 1848.8,
-      "y": 486.2,
-      "width": 58.400000000000006,
+      "x": 227.2,
+      "y": 979.2,
+      "width": 125.6,
       "height": 21.6,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -2913,35 +3305,35 @@ tags:
       "roughness": 0,
       "opacity": 100,
       "groupIds": [
-        "k0000000000000062"
+        "k0000000000000079"
       ],
       "frameId": null,
-      "index": "a44",
+      "index": "c52",
       "roundness": null,
-      "seed": 6472,
-      "version": 2,
-      "versionNonce": 6473,
+      "seed": 15092,
+      "version": 3,
+      "versionNonce": 15093,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
       "link": null,
       "locked": true,
       "customData": null,
-      "text": "四根说",
+      "text": "人是万物的尺度",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "四根说",
+      "originalText": "人是万物的尺度",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
-      "id": "c000000000000005e",
+      "id": "c0000000000000092",
       "type": "rectangle",
-      "x": -92.0,
-      "y": 452.0,
+      "x": 180.0,
+      "y": 1438.0,
       "width": 200.0,
       "height": 90.0,
       "angle": 0,
@@ -2953,38 +3345,34 @@ tags:
       "roughness": 1,
       "opacity": 100,
       "groupIds": [
-        "k000000000000005e"
+        "k0000000000000092"
       ],
       "frameId": null,
-      "index": "a45",
+      "index": "c53",
       "roundness": {
         "type": 3
       },
-      "seed": 6474,
-      "version": 2,
-      "versionNonce": 6475,
+      "seed": 15094,
+      "version": 3,
+      "versionNonce": 15095,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "a0000000000000065",
-          "type": "arrow"
-        },
-        {
-          "id": "a0000000000000072",
+          "id": "a000000000000009b",
           "type": "arrow"
         }
       ],
       "updated": 1,
-      "link": "[[本原]]",
+      "link": "[[绝对命令]]",
       "locked": false,
       "customData": null
     },
     {
-      "id": "t000000000000005e",
+      "id": "t0000000000000092",
       "type": "text",
-      "x": -12.799999999999997,
-      "y": 486.2,
-      "width": 41.6,
+      "x": 242.4,
+      "y": 1472.2,
+      "width": 75.2,
       "height": 21.6,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -2995,273 +3383,27 @@ tags:
       "roughness": 0,
       "opacity": 100,
       "groupIds": [
-        "k000000000000005e"
+        "k0000000000000092"
       ],
       "frameId": null,
-      "index": "a46",
+      "index": "c54",
       "roundness": null,
-      "seed": 6476,
-      "version": 2,
-      "versionNonce": 6477,
+      "seed": 15096,
+      "version": 3,
+      "versionNonce": 15097,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
       "link": null,
       "locked": true,
       "customData": null,
-      "text": "本原",
+      "text": "绝对命令",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "本原",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c0000000000000064",
-      "type": "rectangle",
-      "x": 2186.0,
-      "y": 655.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000064"
-      ],
-      "frameId": null,
-      "index": "a47",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6478,
-      "version": 2,
-      "versionNonce": 6479,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a000000000000006a",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[努斯]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t0000000000000064",
-      "type": "text",
-      "x": 2265.2,
-      "y": 689.2,
-      "width": 41.6,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000064"
-      ],
-      "frameId": null,
-      "index": "a48",
-      "roundness": null,
-      "seed": 6480,
-      "version": 2,
-      "versionNonce": 6481,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "努斯",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "努斯",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c0000000000000061",
-      "type": "rectangle",
-      "x": 2628.0,
-      "y": 452.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000061"
-      ],
-      "frameId": null,
-      "index": "a49",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6482,
-      "version": 2,
-      "versionNonce": 6483,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000069",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000ea",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[原子]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t0000000000000061",
-      "type": "text",
-      "x": 2707.2,
-      "y": 486.2,
-      "width": 41.6,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000061"
-      ],
-      "frameId": null,
-      "index": "a4a",
-      "roundness": null,
-      "seed": 6484,
-      "version": 2,
-      "versionNonce": 6485,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "原子",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "原子",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c0000000000000063",
-      "type": "rectangle",
-      "x": 2186.0,
-      "y": 452.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000063"
-      ],
-      "frameId": null,
-      "index": "a4b",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6486,
-      "version": 2,
-      "versionNonce": 6487,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000068",
-          "type": "arrow"
-        },
-        {
-          "id": "a0000000000000069",
-          "type": "arrow"
-        },
-        {
-          "id": "a000000000000006a",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[种子说]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t0000000000000063",
-      "type": "text",
-      "x": 2256.8,
-      "y": 486.2,
-      "width": 58.400000000000006,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k0000000000000063"
-      ],
-      "frameId": null,
-      "index": "a4c",
-      "roundness": null,
-      "seed": 6488,
-      "version": 2,
-      "versionNonce": 6489,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "种子说",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "种子说",
+      "originalText": "绝对命令",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -3284,13 +3426,13 @@ tags:
         "k0000000000000060"
       ],
       "frameId": null,
-      "index": "a4d",
+      "index": "c55",
       "roundness": {
         "type": 3
       },
-      "seed": 6490,
-      "version": 2,
-      "versionNonce": 6491,
+      "seed": 15098,
+      "version": 3,
+      "versionNonce": 15099,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3326,11 +3468,11 @@ tags:
         "k0000000000000060"
       ],
       "frameId": null,
-      "index": "a4e",
+      "index": "c56",
       "roundness": null,
-      "seed": 6492,
-      "version": 2,
-      "versionNonce": 6493,
+      "seed": 15100,
+      "version": 3,
+      "versionNonce": 15101,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -3344,88 +3486,6 @@ tags:
       "verticalAlign": "top",
       "containerId": null,
       "originalText": "阿派朗",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c000000000000005f",
-      "type": "rectangle",
-      "x": 520.0,
-      "y": 452.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000005f"
-      ],
-      "frameId": null,
-      "index": "a4f",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6494,
-      "version": 2,
-      "versionNonce": 6495,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a0000000000000065",
-          "type": "arrow"
-        },
-        {
-          "id": "a0000000000000066",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[自然哲学]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t000000000000005f",
-      "type": "text",
-      "x": 582.4,
-      "y": 486.2,
-      "width": 75.2,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k000000000000005f"
-      ],
-      "frameId": null,
-      "index": "a50",
-      "roundness": null,
-      "seed": 6496,
-      "version": 2,
-      "versionNonce": 6497,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "自然哲学",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "自然哲学",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -3448,13 +3508,13 @@ tags:
         "k00000000000000e0"
       ],
       "frameId": null,
-      "index": "a51",
+      "index": "c57",
       "roundness": {
         "type": 3
       },
-      "seed": 6498,
-      "version": 2,
-      "versionNonce": 6499,
+      "seed": 15102,
+      "version": 3,
+      "versionNonce": 15103,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3494,11 +3554,11 @@ tags:
         "k00000000000000e0"
       ],
       "frameId": null,
-      "index": "a52",
+      "index": "c58",
       "roundness": null,
-      "seed": 6500,
-      "version": 2,
-      "versionNonce": 6501,
+      "seed": 15104,
+      "version": 3,
+      "versionNonce": 15105,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -3534,13 +3594,13 @@ tags:
         "k00000000000000e1"
       ],
       "frameId": null,
-      "index": "a53",
+      "index": "c59",
       "roundness": {
         "type": 3
       },
-      "seed": 6502,
-      "version": 2,
-      "versionNonce": 6503,
+      "seed": 15106,
+      "version": 3,
+      "versionNonce": 15107,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3580,11 +3640,11 @@ tags:
         "k00000000000000e1"
       ],
       "frameId": null,
-      "index": "a54",
+      "index": "c5a",
       "roundness": null,
-      "seed": 6504,
-      "version": 2,
-      "versionNonce": 6505,
+      "seed": 15108,
+      "version": 3,
+      "versionNonce": 15109,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -3602,10 +3662,10 @@ tags:
       "lineHeight": 1.25
     },
     {
-      "id": "c00000000000000e2",
+      "id": "c0000000000000062",
       "type": "rectangle",
-      "x": 2628.0,
-      "y": 655.0,
+      "x": 1812.0,
+      "y": 407.0,
       "width": 200.0,
       "height": 90.0,
       "angle": 0,
@@ -3617,33 +3677,37 @@ tags:
       "roughness": 1,
       "opacity": 100,
       "groupIds": [
-        "k00000000000000e2"
+        "k0000000000000062"
       ],
       "frameId": null,
-      "index": "a55",
+      "index": "c5b",
       "roundness": {
         "type": 3
       },
-      "seed": 6506,
-      "version": 2,
-      "versionNonce": 6507,
+      "seed": 15110,
+      "version": 3,
+      "versionNonce": 15111,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "a00000000000000e9",
+          "id": "a0000000000000068",
+          "type": "arrow"
+        },
+        {
+          "id": "a00000000000000e6",
           "type": "arrow"
         }
       ],
       "updated": 1,
-      "link": "[[辩证法]]",
+      "link": "[[四根说]]",
       "locked": false,
       "customData": null
     },
     {
-      "id": "t00000000000000e2",
+      "id": "t0000000000000062",
       "type": "text",
-      "x": 2698.8,
-      "y": 689.2,
+      "x": 1882.8,
+      "y": 441.2,
       "width": 58.400000000000006,
       "height": 21.6,
       "angle": 0,
@@ -3655,261 +3719,27 @@ tags:
       "roughness": 0,
       "opacity": 100,
       "groupIds": [
-        "k00000000000000e2"
+        "k0000000000000062"
       ],
       "frameId": null,
-      "index": "a56",
+      "index": "c5c",
       "roundness": null,
-      "seed": 6508,
-      "version": 2,
-      "versionNonce": 6509,
+      "seed": 15112,
+      "version": 3,
+      "versionNonce": 15113,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
       "link": null,
       "locked": true,
       "customData": null,
-      "text": "辩证法",
+      "text": "四根说",
       "fontSize": 16,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "辩证法",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c00000000000000e3",
-      "type": "rectangle",
-      "x": 3036.0,
-      "y": 452.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k00000000000000e3"
-      ],
-      "frameId": null,
-      "index": "a57",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6510,
-      "version": 2,
-      "versionNonce": 6511,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000ea",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[虚空]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t00000000000000e3",
-      "type": "text",
-      "x": 3115.2,
-      "y": 486.2,
-      "width": 41.6,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k00000000000000e3"
-      ],
-      "frameId": null,
-      "index": "a58",
-      "roundness": null,
-      "seed": 6512,
-      "version": 2,
-      "versionNonce": 6513,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "虚空",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "虚空",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c00000000000000e4",
-      "type": "rectangle",
-      "x": 5280.0,
-      "y": 655.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k00000000000000e4"
-      ],
-      "frameId": null,
-      "index": "a59",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6514,
-      "version": 2,
-      "versionNonce": 6515,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000eb",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[太一]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t00000000000000e4",
-      "type": "text",
-      "x": 5359.2,
-      "y": 689.2,
-      "width": 41.6,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k00000000000000e4"
-      ],
-      "frameId": null,
-      "index": "a5a",
-      "roundness": null,
-      "seed": 6516,
-      "version": 2,
-      "versionNonce": 6517,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "太一",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "太一",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "c00000000000000e5",
-      "type": "rectangle",
-      "x": 4872.0,
-      "y": 655.0,
-      "width": 200.0,
-      "height": 90.0,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffffff",
-      "fillStyle": "solid",
-      "strokeWidth": 1.5,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [
-        "k00000000000000e5"
-      ],
-      "frameId": null,
-      "index": "a5b",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 6518,
-      "version": 2,
-      "versionNonce": 6519,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000ec",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1,
-      "link": "[[四因说]]",
-      "locked": false,
-      "customData": null
-    },
-    {
-      "id": "t00000000000000e5",
-      "type": "text",
-      "x": 4942.8,
-      "y": 689.2,
-      "width": 58.400000000000006,
-      "height": 21.6,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [
-        "k00000000000000e5"
-      ],
-      "frameId": null,
-      "index": "a5c",
-      "roundness": null,
-      "seed": 6520,
-      "version": 2,
-      "versionNonce": 6521,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1,
-      "link": null,
-      "locked": true,
-      "customData": null,
-      "text": "四因说",
-      "fontSize": 16,
-      "fontFamily": 5,
-      "textAlign": "center",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "四因说",
+      "originalText": "四根说",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -3930,13 +3760,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a5d",
+      "index": "c5d",
       "roundness": {
         "type": 2
       },
-      "seed": 6522,
-      "version": 2,
-      "versionNonce": 6523,
+      "seed": 15114,
+      "version": 3,
+      "versionNonce": 15115,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -3985,11 +3815,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a5e",
+      "index": "c5e",
       "roundness": null,
-      "seed": 6524,
-      "version": 2,
-      "versionNonce": 6525,
+      "seed": 15116,
+      "version": 3,
+      "versionNonce": 15117,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4023,13 +3853,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a5f",
+      "index": "c5f",
       "roundness": {
         "type": 2
       },
-      "seed": 6526,
-      "version": 2,
-      "versionNonce": 6527,
+      "seed": 15118,
+      "version": 3,
+      "versionNonce": 15119,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4078,13 +3908,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a60",
+      "index": "c60",
       "roundness": {
         "type": 2
       },
-      "seed": 6528,
-      "version": 2,
-      "versionNonce": 6529,
+      "seed": 15120,
+      "version": 3,
+      "versionNonce": 15121,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4119,10 +3949,10 @@ tags:
     {
       "id": "a0000000000000068",
       "type": "arrow",
-      "x": 1978.0,
-      "y": 497.0,
-      "width": 208.0,
-      "height": 1.0,
+      "x": 2012.0,
+      "y": 452.0,
+      "width": 174.0,
+      "height": 45.0,
       "angle": 0,
       "strokeColor": "#495057",
       "backgroundColor": "transparent",
@@ -4133,13 +3963,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a61",
+      "index": "c61",
       "roundness": {
         "type": 2
       },
-      "seed": 6530,
-      "version": 2,
-      "versionNonce": 6531,
+      "seed": 15122,
+      "version": 3,
+      "versionNonce": 15123,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4152,8 +3982,8 @@ tags:
           0
         ],
         [
-          208,
-          0.0
+          174,
+          45.0
         ]
       ],
       "lastCommittedPoint": null,
@@ -4188,13 +4018,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a62",
+      "index": "c62",
       "roundness": {
         "type": 2
       },
-      "seed": 6532,
-      "version": 2,
-      "versionNonce": 6533,
+      "seed": 15124,
+      "version": 3,
+      "versionNonce": 15125,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4243,11 +4073,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a63",
+      "index": "c63",
       "roundness": null,
-      "seed": 6534,
-      "version": 2,
-      "versionNonce": 6535,
+      "seed": 15126,
+      "version": 3,
+      "versionNonce": 15127,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4281,13 +4111,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a64",
+      "index": "c64",
       "roundness": {
         "type": 2
       },
-      "seed": 6536,
-      "version": 2,
-      "versionNonce": 6537,
+      "seed": 15128,
+      "version": 3,
+      "versionNonce": 15129,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4336,11 +4166,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a65",
+      "index": "c65",
       "roundness": null,
-      "seed": 6538,
-      "version": 2,
-      "versionNonce": 6539,
+      "seed": 15130,
+      "version": 3,
+      "versionNonce": 15131,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4374,13 +4204,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a66",
+      "index": "c66",
       "roundness": {
         "type": 2
       },
-      "seed": 6540,
-      "version": 2,
-      "versionNonce": 6541,
+      "seed": 15132,
+      "version": 3,
+      "versionNonce": 15133,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4429,11 +4259,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a67",
+      "index": "c67",
       "roundness": null,
-      "seed": 6542,
-      "version": 2,
-      "versionNonce": 6543,
+      "seed": 15134,
+      "version": 3,
+      "versionNonce": 15135,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4467,13 +4297,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a68",
+      "index": "c68",
       "roundness": {
         "type": 2
       },
-      "seed": 6544,
-      "version": 2,
-      "versionNonce": 6545,
+      "seed": 15136,
+      "version": 3,
+      "versionNonce": 15137,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4522,13 +4352,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a69",
+      "index": "c69",
       "roundness": {
         "type": 2
       },
-      "seed": 6546,
-      "version": 2,
-      "versionNonce": 6547,
+      "seed": 15138,
+      "version": 3,
+      "versionNonce": 15139,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4577,13 +4407,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a6a",
+      "index": "c6a",
       "roundness": {
         "type": 2
       },
-      "seed": 6548,
-      "version": 2,
-      "versionNonce": 6549,
+      "seed": 15140,
+      "version": 3,
+      "versionNonce": 15141,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4632,11 +4462,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a6b",
+      "index": "c6b",
       "roundness": null,
-      "seed": 6550,
-      "version": 2,
-      "versionNonce": 6551,
+      "seed": 15142,
+      "version": 3,
+      "versionNonce": 15143,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4670,13 +4500,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a6c",
+      "index": "c6c",
       "roundness": {
         "type": 2
       },
-      "seed": 6552,
-      "version": 2,
-      "versionNonce": 6553,
+      "seed": 15144,
+      "version": 3,
+      "versionNonce": 15145,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4725,11 +4555,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a6d",
+      "index": "c6d",
       "roundness": null,
-      "seed": 6554,
-      "version": 2,
-      "versionNonce": 6555,
+      "seed": 15146,
+      "version": 3,
+      "versionNonce": 15147,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4763,13 +4593,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a6e",
+      "index": "c6e",
       "roundness": {
         "type": 2
       },
-      "seed": 6556,
-      "version": 2,
-      "versionNonce": 6557,
+      "seed": 15148,
+      "version": 3,
+      "versionNonce": 15149,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4818,11 +4648,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a6f",
+      "index": "c6f",
       "roundness": null,
-      "seed": 6558,
-      "version": 2,
-      "versionNonce": 6559,
+      "seed": 15150,
+      "version": 3,
+      "versionNonce": 15151,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4856,13 +4686,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a70",
+      "index": "c70",
       "roundness": {
         "type": 2
       },
-      "seed": 6560,
-      "version": 2,
-      "versionNonce": 6561,
+      "seed": 15152,
+      "version": 3,
+      "versionNonce": 15153,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4911,11 +4741,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a71",
+      "index": "c71",
       "roundness": null,
-      "seed": 6562,
-      "version": 2,
-      "versionNonce": 6563,
+      "seed": 15154,
+      "version": 3,
+      "versionNonce": 15155,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -4949,13 +4779,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a72",
+      "index": "c72",
       "roundness": {
         "type": 2
       },
-      "seed": 6564,
-      "version": 2,
-      "versionNonce": 6565,
+      "seed": 15156,
+      "version": 3,
+      "versionNonce": 15157,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5004,11 +4834,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a73",
+      "index": "c73",
       "roundness": null,
-      "seed": 6566,
-      "version": 2,
-      "versionNonce": 6567,
+      "seed": 15158,
+      "version": 3,
+      "versionNonce": 15159,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5042,13 +4872,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a74",
+      "index": "c74",
       "roundness": {
         "type": 2
       },
-      "seed": 6568,
-      "version": 2,
-      "versionNonce": 6569,
+      "seed": 15160,
+      "version": 3,
+      "versionNonce": 15161,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5097,11 +4927,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a75",
+      "index": "c75",
       "roundness": null,
-      "seed": 6570,
-      "version": 2,
-      "versionNonce": 6571,
+      "seed": 15162,
+      "version": 3,
+      "versionNonce": 15163,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5135,13 +4965,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a76",
+      "index": "c76",
       "roundness": {
         "type": 2
       },
-      "seed": 6572,
-      "version": 2,
-      "versionNonce": 6573,
+      "seed": 15164,
+      "version": 3,
+      "versionNonce": 15165,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5190,11 +5020,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a77",
+      "index": "c77",
       "roundness": null,
-      "seed": 6574,
-      "version": 2,
-      "versionNonce": 6575,
+      "seed": 15166,
+      "version": 3,
+      "versionNonce": 15167,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5228,13 +5058,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a78",
+      "index": "c78",
       "roundness": {
         "type": 2
       },
-      "seed": 6576,
-      "version": 2,
-      "versionNonce": 6577,
+      "seed": 15168,
+      "version": 3,
+      "versionNonce": 15169,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5283,11 +5113,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a79",
+      "index": "c79",
       "roundness": null,
-      "seed": 6578,
-      "version": 2,
-      "versionNonce": 6579,
+      "seed": 15170,
+      "version": 3,
+      "versionNonce": 15171,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5321,13 +5151,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a7a",
+      "index": "c7a",
       "roundness": {
         "type": 2
       },
-      "seed": 6580,
-      "version": 2,
-      "versionNonce": 6581,
+      "seed": 15172,
+      "version": 3,
+      "versionNonce": 15173,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5376,11 +5206,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a7b",
+      "index": "c7b",
       "roundness": null,
-      "seed": 6582,
-      "version": 2,
-      "versionNonce": 6583,
+      "seed": 15174,
+      "version": 3,
+      "versionNonce": 15175,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5414,13 +5244,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a7c",
+      "index": "c7c",
       "roundness": {
         "type": 2
       },
-      "seed": 6584,
-      "version": 2,
-      "versionNonce": 6585,
+      "seed": 15176,
+      "version": 3,
+      "versionNonce": 15177,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5469,11 +5299,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a7d",
+      "index": "c7d",
       "roundness": null,
-      "seed": 6586,
-      "version": 2,
-      "versionNonce": 6587,
+      "seed": 15178,
+      "version": 3,
+      "versionNonce": 15179,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5507,13 +5337,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a7e",
+      "index": "c7e",
       "roundness": {
         "type": 2
       },
-      "seed": 6588,
-      "version": 2,
-      "versionNonce": 6589,
+      "seed": 15180,
+      "version": 3,
+      "versionNonce": 15181,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5562,11 +5392,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a7f",
+      "index": "c7f",
       "roundness": null,
-      "seed": 6590,
-      "version": 2,
-      "versionNonce": 6591,
+      "seed": 15182,
+      "version": 3,
+      "versionNonce": 15183,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5600,13 +5430,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a80",
+      "index": "c80",
       "roundness": {
         "type": 2
       },
-      "seed": 6592,
-      "version": 2,
-      "versionNonce": 6593,
+      "seed": 15184,
+      "version": 3,
+      "versionNonce": 15185,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5655,11 +5485,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a81",
+      "index": "c81",
       "roundness": null,
-      "seed": 6594,
-      "version": 2,
-      "versionNonce": 6595,
+      "seed": 15186,
+      "version": 3,
+      "versionNonce": 15187,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5693,13 +5523,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a82",
+      "index": "c82",
       "roundness": {
         "type": 2
       },
-      "seed": 6596,
-      "version": 2,
-      "versionNonce": 6597,
+      "seed": 15188,
+      "version": 3,
+      "versionNonce": 15189,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5748,11 +5578,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a83",
+      "index": "c83",
       "roundness": null,
-      "seed": 6598,
-      "version": 2,
-      "versionNonce": 6599,
+      "seed": 15190,
+      "version": 3,
+      "versionNonce": 15191,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5786,13 +5616,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a84",
+      "index": "c84",
       "roundness": {
         "type": 2
       },
-      "seed": 6600,
-      "version": 2,
-      "versionNonce": 6601,
+      "seed": 15192,
+      "version": 3,
+      "versionNonce": 15193,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5841,11 +5671,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a85",
+      "index": "c85",
       "roundness": null,
-      "seed": 6602,
-      "version": 2,
-      "versionNonce": 6603,
+      "seed": 15194,
+      "version": 3,
+      "versionNonce": 15195,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5879,13 +5709,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a86",
+      "index": "c86",
       "roundness": {
         "type": 2
       },
-      "seed": 6604,
-      "version": 2,
-      "versionNonce": 6605,
+      "seed": 15196,
+      "version": 3,
+      "versionNonce": 15197,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5934,13 +5764,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a87",
+      "index": "c87",
       "roundness": {
         "type": 2
       },
-      "seed": 6606,
-      "version": 2,
-      "versionNonce": 6607,
+      "seed": 15198,
+      "version": 3,
+      "versionNonce": 15199,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -5989,11 +5819,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a88",
+      "index": "c88",
       "roundness": null,
-      "seed": 6608,
-      "version": 2,
-      "versionNonce": 6609,
+      "seed": 15200,
+      "version": 3,
+      "versionNonce": 15201,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6027,13 +5857,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a89",
+      "index": "c89",
       "roundness": {
         "type": 2
       },
-      "seed": 6610,
-      "version": 2,
-      "versionNonce": 6611,
+      "seed": 15202,
+      "version": 3,
+      "versionNonce": 15203,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6082,11 +5912,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a8a",
+      "index": "c8a",
       "roundness": null,
-      "seed": 6612,
-      "version": 2,
-      "versionNonce": 6613,
+      "seed": 15204,
+      "version": 3,
+      "versionNonce": 15205,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6120,13 +5950,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a8b",
+      "index": "c8b",
       "roundness": {
         "type": 2
       },
-      "seed": 6614,
-      "version": 2,
-      "versionNonce": 6615,
+      "seed": 15206,
+      "version": 3,
+      "versionNonce": 15207,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6175,11 +6005,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a8c",
+      "index": "c8c",
       "roundness": null,
-      "seed": 6616,
-      "version": 2,
-      "versionNonce": 6617,
+      "seed": 15208,
+      "version": 3,
+      "versionNonce": 15209,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6213,13 +6043,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a8d",
+      "index": "c8d",
       "roundness": {
         "type": 2
       },
-      "seed": 6618,
-      "version": 2,
-      "versionNonce": 6619,
+      "seed": 15210,
+      "version": 3,
+      "versionNonce": 15211,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6268,13 +6098,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a8e",
+      "index": "c8e",
       "roundness": {
         "type": 2
       },
-      "seed": 6620,
-      "version": 2,
-      "versionNonce": 6621,
+      "seed": 15212,
+      "version": 3,
+      "versionNonce": 15213,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6323,13 +6153,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a8f",
+      "index": "c8f",
       "roundness": {
         "type": 2
       },
-      "seed": 6622,
-      "version": 2,
-      "versionNonce": 6623,
+      "seed": 15214,
+      "version": 3,
+      "versionNonce": 15215,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6378,11 +6208,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a90",
+      "index": "c90",
       "roundness": null,
-      "seed": 6624,
-      "version": 2,
-      "versionNonce": 6625,
+      "seed": 15216,
+      "version": 3,
+      "versionNonce": 15217,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6416,13 +6246,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a91",
+      "index": "c91",
       "roundness": {
         "type": 2
       },
-      "seed": 6626,
-      "version": 2,
-      "versionNonce": 6627,
+      "seed": 15218,
+      "version": 3,
+      "versionNonce": 15219,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6471,11 +6301,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a92",
+      "index": "c92",
       "roundness": null,
-      "seed": 6628,
-      "version": 2,
-      "versionNonce": 6629,
+      "seed": 15220,
+      "version": 3,
+      "versionNonce": 15221,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6509,13 +6339,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a93",
+      "index": "c93",
       "roundness": {
         "type": 2
       },
-      "seed": 6630,
-      "version": 2,
-      "versionNonce": 6631,
+      "seed": 15222,
+      "version": 3,
+      "versionNonce": 15223,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6564,13 +6394,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a94",
+      "index": "c94",
       "roundness": {
         "type": 2
       },
-      "seed": 6632,
-      "version": 2,
-      "versionNonce": 6633,
+      "seed": 15224,
+      "version": 3,
+      "versionNonce": 15225,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6619,11 +6449,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a95",
+      "index": "c95",
       "roundness": null,
-      "seed": 6634,
-      "version": 2,
-      "versionNonce": 6635,
+      "seed": 15226,
+      "version": 3,
+      "versionNonce": 15227,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6657,13 +6487,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a96",
+      "index": "c96",
       "roundness": {
         "type": 2
       },
-      "seed": 6636,
-      "version": 2,
-      "versionNonce": 6637,
+      "seed": 15228,
+      "version": 3,
+      "versionNonce": 15229,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6712,11 +6542,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a97",
+      "index": "c97",
       "roundness": null,
-      "seed": 6638,
-      "version": 2,
-      "versionNonce": 6639,
+      "seed": 15230,
+      "version": 3,
+      "versionNonce": 15231,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6738,8 +6568,8 @@ tags:
       "type": "arrow",
       "x": 1536.0,
       "y": 497.0,
-      "width": 242.0,
-      "height": 1.0,
+      "width": 276.0,
+      "height": 45.0,
       "angle": 0,
       "strokeColor": "#495057",
       "backgroundColor": "transparent",
@@ -6750,13 +6580,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a98",
+      "index": "c98",
       "roundness": {
         "type": 2
       },
-      "seed": 6640,
-      "version": 2,
-      "versionNonce": 6641,
+      "seed": 15232,
+      "version": 3,
+      "versionNonce": 15233,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6769,8 +6599,8 @@ tags:
           0
         ],
         [
-          242,
-          0.0
+          276,
+          -45.0
         ]
       ],
       "lastCommittedPoint": null,
@@ -6791,8 +6621,8 @@ tags:
     {
       "id": "l00000000000000e6",
       "type": "text",
-      "x": 1600.55,
-      "y": 475.0,
+      "x": 1617.55,
+      "y": 452.5,
       "width": 110.9,
       "height": 18.900000000000002,
       "angle": 0,
@@ -6805,11 +6635,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a99",
+      "index": "c99",
       "roundness": null,
-      "seed": 6642,
-      "version": 2,
-      "versionNonce": 6643,
+      "seed": 15234,
+      "version": 3,
+      "versionNonce": 15235,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6843,13 +6673,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a9a",
+      "index": "c9a",
       "roundness": {
         "type": 2
       },
-      "seed": 6644,
-      "version": 2,
-      "versionNonce": 6645,
+      "seed": 15236,
+      "version": 3,
+      "versionNonce": 15237,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6898,11 +6728,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a9b",
+      "index": "c9b",
       "roundness": null,
-      "seed": 6646,
-      "version": 2,
-      "versionNonce": 6647,
+      "seed": 15238,
+      "version": 3,
+      "versionNonce": 15239,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6936,13 +6766,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a9c",
+      "index": "c9c",
       "roundness": {
         "type": 2
       },
-      "seed": 6648,
-      "version": 2,
-      "versionNonce": 6649,
+      "seed": 15240,
+      "version": 3,
+      "versionNonce": 15241,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -6991,11 +6821,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a9d",
+      "index": "c9d",
       "roundness": null,
-      "seed": 6650,
-      "version": 2,
-      "versionNonce": 6651,
+      "seed": 15242,
+      "version": 3,
+      "versionNonce": 15243,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7029,13 +6859,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a9e",
+      "index": "c9e",
       "roundness": {
         "type": 2
       },
-      "seed": 6652,
-      "version": 2,
-      "versionNonce": 6653,
+      "seed": 15244,
+      "version": 3,
+      "versionNonce": 15245,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7084,11 +6914,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a9f",
+      "index": "c9f",
       "roundness": null,
-      "seed": 6654,
-      "version": 2,
-      "versionNonce": 6655,
+      "seed": 15246,
+      "version": 3,
+      "versionNonce": 15247,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7122,13 +6952,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "aa0",
+      "index": "ca0",
       "roundness": {
         "type": 2
       },
-      "seed": 6656,
-      "version": 2,
-      "versionNonce": 6657,
+      "seed": 15248,
+      "version": 3,
+      "versionNonce": 15249,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7177,11 +7007,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "aa1",
+      "index": "ca1",
       "roundness": null,
-      "seed": 6658,
-      "version": 2,
-      "versionNonce": 6659,
+      "seed": 15250,
+      "version": 3,
+      "versionNonce": 15251,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7215,13 +7045,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "aa2",
+      "index": "ca2",
       "roundness": {
         "type": 2
       },
-      "seed": 6660,
-      "version": 2,
-      "versionNonce": 6661,
+      "seed": 15252,
+      "version": 3,
+      "versionNonce": 15253,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7270,11 +7100,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "aa3",
+      "index": "ca3",
       "roundness": null,
-      "seed": 6662,
-      "version": 2,
-      "versionNonce": 6663,
+      "seed": 15254,
+      "version": 3,
+      "versionNonce": 15255,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7308,13 +7138,13 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "aa4",
+      "index": "ca4",
       "roundness": {
         "type": 2
       },
-      "seed": 6664,
-      "version": 2,
-      "versionNonce": 6665,
+      "seed": 15256,
+      "version": 3,
+      "versionNonce": 15257,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7363,11 +7193,11 @@ tags:
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "aa5",
+      "index": "ca5",
       "roundness": null,
-      "seed": 6666,
-      "version": 2,
-      "versionNonce": 6667,
+      "seed": 15258,
+      "version": 3,
+      "versionNonce": 15259,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -7391,5 +7221,3 @@ tags:
   },
   "files": {}
 }
-```
-%%
