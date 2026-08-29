@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "人物关系.excalidraw",
-      "path": "西方哲学史讲演录/白板/人物关系.excalidraw.md"
-    },
-    {
       "basename": "知识图谱.excalidraw",
       "path": "西方哲学史讲演录/白板/知识图谱.excalidraw.md"
     },
     {
-      "basename": "本原",
-      "path": "西方哲学史讲演录/术语/本原.md"
+      "basename": "知识图谱",
+      "path": "西方哲学史讲演录/白板/知识图谱.canvas"
     },
     {
       "basename": "全书线索.excalidraw",
       "path": "西方哲学史讲演录/白板/全书线索.excalidraw.md"
+    },
+    {
+      "basename": "全书线索",
+      "path": "西方哲学史讲演录/白板/全书线索.canvas"
+    },
+    {
+      "basename": "复盘",
+      "path": "西方哲学史讲演录/复盘.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "人物关系.excalidraw",
+      "path": "西方哲学史讲演录/白板/人物关系.excalidraw.md"
+    },
+    {
+      "basename": "本原",
+      "path": "西方哲学史讲演录/术语/本原.md"
     },
     {
       "basename": "西方哲学史讲演录",
@@ -59,14 +75,6 @@
     {
       "basename": "02 希腊自然哲学",
       "path": "西方哲学史讲演录/章节/02 希腊自然哲学.md"
-    },
-    {
-      "basename": "复盘",
-      "path": "西方哲学史讲演录/复盘.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "贝克莱",
@@ -191,14 +199,6 @@
     {
       "basename": "10 18世纪法国启蒙哲学",
       "path": "西方哲学史讲演录/章节/10 18世纪法国启蒙哲学.md"
-    },
-    {
-      "basename": "09 欧洲大陆唯理论哲学",
-      "path": "西方哲学史讲演录/章节/09 欧洲大陆唯理论哲学.md"
-    },
-    {
-      "basename": "08 近代哲学的转向与英国经验论",
-      "path": "西方哲学史讲演录/章节/08 近代哲学的转向与英国经验论.md"
     }
   ],
   "omittedPaths": [],

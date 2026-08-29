@@ -10,6 +10,15 @@ properties:
     displayName: 别称
 
 views:
+  - type: cards
+    name: 卡片
+    groupBy:
+      property: first_lecture
+      direction: ASC
+    order:
+      - file.name
+      - aliases
+      - first_lecture
   - type: table
     name: 全部术语
     order:

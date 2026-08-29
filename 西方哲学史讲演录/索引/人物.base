@@ -8,6 +8,15 @@ properties:
   flourished:
     displayName: 鼎盛年约
 views:
+  - type: cards
+    name: 卡片
+    groupBy:
+      property: school
+      direction: ASC
+    order:
+      - file.name
+      - school
+      - flourished
   - type: table
     name: 按学派
     groupBy:
@@ -17,8 +26,3 @@ views:
       - file.name
       - school
       - flourished
-  - type: cards
-    name: 卡片
-    order:
-      - file.name
-      - school

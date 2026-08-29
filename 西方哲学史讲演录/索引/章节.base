@@ -12,15 +12,15 @@ properties:
   formula.lecture_label:
     displayName: 讲次
 views:
+  - type: cards
+    name: 卡片
+    order:
+      - file.name
+      - formula.lecture_label
+      - status
   - type: table
     name: 按讲次
     order:
       - lecture
       - file.name
       - status
-  - type: cards
-    name: 卡片
-    order:
-      - file.name
-      - status
-      - lecture
