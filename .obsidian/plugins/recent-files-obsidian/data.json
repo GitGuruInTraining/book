@@ -5,24 +5,32 @@
       "path": "西方哲学史讲演录/白板/知识图谱.canvas"
     },
     {
-      "basename": "火本原说",
-      "path": "西方哲学史讲演录/术语/火本原说.md"
+      "basename": "知识图谱",
+      "path": "西方哲学史讲演录/白板/知识图谱.excalidraw"
+    },
+    {
+      "basename": "人物关系",
+      "path": "西方哲学史讲演录/白板/人物关系.excalidraw"
+    },
+    {
+      "basename": "高尔吉亚",
+      "path": "西方哲学史讲演录/人物/高尔吉亚.md"
     },
     {
       "basename": "人物关系",
       "path": "西方哲学史讲演录/白板/人物关系.canvas"
     },
     {
-      "basename": "全书线索",
-      "path": "西方哲学史讲演录/白板/全书线索.canvas"
-    },
-    {
-      "basename": "知识图谱",
-      "path": "西方哲学史讲演录/白板/知识图谱.excalidraw"
-    },
-    {
       "basename": "西方哲学史讲演录",
       "path": "西方哲学史讲演录/西方哲学史讲演录.md"
+    },
+    {
+      "basename": "火本原说",
+      "path": "西方哲学史讲演录/术语/火本原说.md"
+    },
+    {
+      "basename": "全书线索",
+      "path": "西方哲学史讲演录/白板/全书线索.canvas"
     },
     {
       "basename": "怎么用",
@@ -59,10 +67,6 @@
     {
       "basename": "泰勒斯",
       "path": "西方哲学史讲演录/人物/泰勒斯.md"
-    },
-    {
-      "basename": "高尔吉亚",
-      "path": "西方哲学史讲演录/人物/高尔吉亚.md"
     },
     {
       "basename": "谢林",
