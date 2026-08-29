@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"00000000000000a7","type":"text","text":"# 全书线索白板\n按讲次排。双击进章节。这是「地图」，人物和概念另两张看关系。","x":0,"y":-20,"width":640,"height":110},
+		{"id":"00000000000000a8","type":"file","file":"西方哲学史讲演录/章节/00 自序.md","x":0,"y":140,"width":260,"height":140,"color":"4"},
+		{"id":"00000000000000a9","type":"file","file":"西方哲学史讲演录/章节/01 哲学是什么与哲学有什么用.md","x":280,"y":140,"width":260,"height":140,"color":"4"},
+		{"id":"00000000000000aa","type":"file","file":"西方哲学史讲演录/章节/02 希腊自然哲学.md","x":560,"y":140,"width":260,"height":140,"color":"4"},
+		{"id":"00000000000000ab","type":"file","file":"西方哲学史讲演录/章节/03 希腊形而上学的源端.md","x":840,"y":140,"width":260,"height":140,"color":"4"},
+		{"id":"00000000000000ac","type":"file","file":"西方哲学史讲演录/章节/04 希腊怀疑论与道德哲学.md","x":1120,"y":140,"width":260,"height":140,"color":"4"},
+		{"id":"00000000000000ad","type":"file","file":"西方哲学史讲演录/章节/05 希腊实在论哲学.md","x":1400,"y":140,"width":260,"height":140,"color":"4"},
+		{"id":"00000000000000ae","type":"file","file":"西方哲学史讲演录/章节/06 希腊哲学的衰颓.md","x":1680,"y":140,"width":260,"height":140,"color":"4"},
+		{"id":"00000000000000af","type":"file","file":"西方哲学史讲演录/章节/07 中世纪基督教哲学.md","x":0,"y":360,"width":260,"height":140,"color":"5"},
+		{"id":"00000000000000b0","type":"file","file":"西方哲学史讲演录/章节/08 近代哲学的转向与英国经验论.md","x":280,"y":360,"width":260,"height":140,"color":"5"},
+		{"id":"00000000000000b1","type":"file","file":"西方哲学史讲演录/章节/09 欧洲大陆唯理论哲学.md","x":560,"y":360,"width":260,"height":140,"color":"5"},
+		{"id":"00000000000000b2","type":"file","file":"西方哲学史讲演录/章节/10 18世纪法国启蒙哲学.md","x":840,"y":360,"width":260,"height":140,"color":"5"},
+		{"id":"00000000000000b4","type":"file","file":"西方哲学史讲演录/章节/12 从费希特到黑格尔.md","x":1400,"y":360,"width":260,"height":140,"color":"6"},
+		{"id":"00000000000000b5","type":"file","file":"西方哲学史讲演录/章节/13 修订版后记.md","x":1680,"y":360,"width":260,"height":140,"color":"6"},
+		{"id":"00000000000000b3","type":"file","file":"西方哲学史讲演录/章节/11 康德的批判哲学.md","x":1120,"y":360,"width":260,"height":140,"color":"6"}
+	],
+	"edges":[
+		{"id":"00000000000000b6","fromNode":"00000000000000a8","fromSide":"right","toNode":"00000000000000a9","toSide":"left"},
+		{"id":"00000000000000b7","fromNode":"00000000000000a9","fromSide":"right","toNode":"00000000000000aa","toSide":"left"},
+		{"id":"00000000000000b8","fromNode":"00000000000000aa","fromSide":"right","toNode":"00000000000000ab","toSide":"left"},
+		{"id":"00000000000000b9","fromNode":"00000000000000ab","fromSide":"right","toNode":"00000000000000ac","toSide":"left"},
+		{"id":"00000000000000ba","fromNode":"00000000000000ac","fromSide":"right","toNode":"00000000000000ad","toSide":"left"},
+		{"id":"00000000000000bb","fromNode":"00000000000000ad","fromSide":"right","toNode":"00000000000000ae","toSide":"left"},
+		{"id":"00000000000000bc","fromNode":"00000000000000ae","fromSide":"right","toNode":"00000000000000af","toSide":"left"},
+		{"id":"00000000000000bd","fromNode":"00000000000000af","fromSide":"right","toNode":"00000000000000b0","toSide":"left"},
+		{"id":"00000000000000be","fromNode":"00000000000000b0","fromSide":"right","toNode":"00000000000000b1","toSide":"left"},
+		{"id":"00000000000000bf","fromNode":"00000000000000b1","fromSide":"right","toNode":"00000000000000b2","toSide":"left"},
+		{"id":"00000000000000c1","fromNode":"00000000000000b3","fromSide":"right","toNode":"00000000000000b4","toSide":"left"},
+		{"id":"00000000000000c2","fromNode":"00000000000000b4","fromSide":"right","toNode":"00000000000000b5","toSide":"left"},
+		{"id":"00000000000000c3","fromNode":"00000000000000b0","fromSide":"bottom","toNode":"00000000000000b3","toSide":"left","color":"6","label":"经验背景"},
+		{"id":"00000000000000c4","fromNode":"00000000000000b1","fromSide":"bottom","toNode":"00000000000000b3","toSide":"top","color":"6","label":"理性背景"},
+		{"id":"00000000000000c5","fromNode":"00000000000000b2","fromSide":"right","toNode":"00000000000000b3","toSide":"left","color":"6","label":"启蒙背景"}
+	]
+}
