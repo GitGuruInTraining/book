@@ -1,0 +1,13 @@
+# 系统
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Obsidian 本地状态（每台机器不同）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# EPUB 解压缓存，不当进库
+西方哲学史讲演录/epub-western-philosophy-tmp/

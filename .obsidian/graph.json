@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:西方哲学史讲演录 -path:epub-western-philosophy-tmp",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#人物",
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
+    },
+    {
+      "query": "tag:#术语",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#章节",
+      "color": {
+        "a": 1,
+        "rgb": 8900331
+      }
+    },
+    {
+      "query": "tag:#moc",
+      "color": {
+        "a": 1,
+        "rgb": 11393254
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.4418600879826988,
+  "close": true
+}

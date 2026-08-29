@@ -1,0 +1,54 @@
+filters:
+  and:
+    - file.inFolder("西方哲学史讲演录/术语")
+    - 'file.ext == "md"'
+
+properties:
+  first_lecture:
+    displayName: 首现讲次
+  aliases:
+    displayName: 别称
+
+views:
+  - type: table
+    name: 全部术语
+    order:
+      - file.name
+      - aliases
+      - first_lecture
+  - type: table
+    name: 第一讲
+    filters: 'first_lecture == 1'
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: 第二讲
+    filters: 'first_lecture == 2'
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: 希腊 3–6 讲
+    filters: 'first_lecture >= 3 and first_lecture <= 6'
+    order:
+      - first_lecture
+      - file.name
+  - type: table
+    name: 中世纪
+    filters: 'first_lecture == 7'
+    order:
+      - file.name
+      - aliases
+  - type: table
+    name: 近代 8–10 讲
+    filters: 'first_lecture >= 8 and first_lecture <= 10'
+    order:
+      - first_lecture
+      - file.name
+  - type: table
+    name: 德国古典
+    filters: 'first_lecture >= 11 and first_lecture <= 12'
+    order:
+      - first_lecture
+      - file.name

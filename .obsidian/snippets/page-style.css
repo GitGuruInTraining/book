@@ -1,0 +1,26 @@
+.markdown-source-view.mod-cm6 .cm-content > .HyperMD-codeblock {
+    border-width: 0 1px 0 1px;
+    border-style: solid;
+    border-color: #E7EAED;
+}
+.markdown-source-view.mod-cm6 .cm-content > .HyperMD-codeblock-begin {
+    margin-bottom: 5px !important;
+    height: 26px;
+    top: 5px;
+    border-width: 1px 1px 0 1px;
+    border-style: solid;
+    border-color: #E7EAED;
+}
+
+.markdown-source-view.mod-cm6 .cm-content > .HyperMD-codeblock-end {
+    margin-top: 5px !important;
+    height: 26px;
+    bottom: 5px;
+    border-width: 0 1px 1px 1px;
+    border-style: solid;
+    border-color: #E7EAED;
+}
+
+body {
+    --code-size: 15px;
+}

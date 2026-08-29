@@ -1,0 +1,20 @@
+{
+  "nameTemplate": "{{original}}",
+  "dateFormat": "YYYY-MM-DD",
+  "timeFormat": "HHmmss",
+  "defaultFolder": "images",
+  "variableDefaults": {},
+  "autoRenamePaste": true,
+  "autoRenameDrop": true,
+  "imageFormats": [
+    "png",
+    "jpg",
+    "jpeg",
+    "gif",
+    "webp",
+    "svg",
+    "bmp"
+  ],
+  "trashFolder": ".trash-images",
+  "language": "zh"
+}

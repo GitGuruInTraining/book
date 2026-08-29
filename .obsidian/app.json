@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "/images",
+    "/img",
+    "西方哲学史讲演录/epub-western-philosophy-tmp"
+  ],
+  "attachmentFolderPath": "./images/"
+}

@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.inFolder("西方哲学史讲演录/章节")
+    - file.ext == "md"
+formulas:
+  lecture_label: if(lecture == 0, "自序", "第" + lecture.toString() + "讲")
+properties:
+  lecture:
+    displayName: 讲次
+  status:
+    displayName: 状态
+  formula.lecture_label:
+    displayName: 讲次
+views:
+  - type: table
+    name: 按讲次
+    order:
+      - lecture
+      - file.name
+      - status
+  - type: cards
+    name: 卡片
+    order:
+      - file.name
+      - status
+      - lecture
