@@ -22,9 +22,9 @@
       "frameId": null,
       "index": "da6",
       "roundness": null,
-      "seed": 16331,
+      "seed": 26331,
       "version": 3,
-      "versionNonce": 16332,
+      "versionNonce": 26332,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -44,10 +44,10 @@
     {
       "id": "E1",
       "type": "rectangle",
-      "x": -36.0,
-      "y": 172.0,
-      "width": 3104.0,
-      "height": 232.0,
+      "x": -48.0,
+      "y": 164.0,
+      "width": 3128.0,
+      "height": 252.0,
       "angle": 0,
       "strokeColor": "#2f9e44",
       "backgroundColor": "#d3f9d8",
@@ -62,9 +62,9 @@
       "roundness": {
         "type": 3
       },
-      "seed": 16333,
+      "seed": 26333,
       "version": 3,
-      "versionNonce": 16334,
+      "versionNonce": 26334,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -75,8 +75,8 @@
     {
       "id": "E1L",
       "type": "text",
-      "x": -20.0,
-      "y": 182.0,
+      "x": -32.0,
+      "y": 174.0,
       "width": 50.0,
       "height": 27.0,
       "angle": 0,
@@ -91,9 +91,9 @@
       "frameId": null,
       "index": "da8",
       "roundness": null,
-      "seed": 16335,
+      "seed": 26335,
       "version": 3,
-      "versionNonce": 16336,
+      "versionNonce": 26336,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -113,10 +113,10 @@
     {
       "id": "E2",
       "type": "rectangle",
-      "x": -36.0,
-      "y": 513.0,
-      "width": 1718.0,
-      "height": 232.0,
+      "x": -48.0,
+      "y": 505.0,
+      "width": 1742.0,
+      "height": 252.0,
       "angle": 0,
       "strokeColor": "#1971c2",
       "backgroundColor": "#d0ebff",
@@ -131,9 +131,9 @@
       "roundness": {
         "type": 3
       },
-      "seed": 16337,
+      "seed": 26337,
       "version": 3,
-      "versionNonce": 16338,
+      "versionNonce": 26338,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -144,8 +144,8 @@
     {
       "id": "E2L",
       "type": "text",
-      "x": -20.0,
-      "y": 523.0,
+      "x": -32.0,
+      "y": 515.0,
       "width": 136.2,
       "height": 27.0,
       "angle": 0,
@@ -160,9 +160,9 @@
       "frameId": null,
       "index": "daa",
       "roundness": null,
-      "seed": 16339,
+      "seed": 26339,
       "version": 3,
-      "versionNonce": 16340,
+      "versionNonce": 26340,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -182,10 +182,10 @@
     {
       "id": "E3",
       "type": "rectangle",
-      "x": 1812.0,
-      "y": 873.0,
-      "width": 1256.0,
-      "height": 232.0,
+      "x": 1800.0,
+      "y": 865.0,
+      "width": 1280.0,
+      "height": 252.0,
       "angle": 0,
       "strokeColor": "#9c36b5",
       "backgroundColor": "#f3d9fa",
@@ -200,9 +200,9 @@
       "roundness": {
         "type": 3
       },
-      "seed": 16341,
+      "seed": 26341,
       "version": 3,
-      "versionNonce": 16342,
+      "versionNonce": 26342,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -213,8 +213,8 @@
     {
       "id": "E3L",
       "type": "text",
-      "x": 1828.0,
-      "y": 883.0,
+      "x": 1816.0,
+      "y": 875.0,
       "width": 92.0,
       "height": 27.0,
       "angle": 0,
@@ -229,9 +229,9 @@
       "frameId": null,
       "index": "dac",
       "roundness": null,
-      "seed": 16343,
+      "seed": 26343,
       "version": 3,
-      "versionNonce": 16344,
+      "versionNonce": 26344,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -252,7 +252,7 @@
       "id": "D1",
       "type": "text",
       "x": 2780.0,
-      "y": 384.0,
+      "y": 392.0,
       "width": 118.07999999999998,
       "height": 21.6,
       "angle": 0,
@@ -267,9 +267,9 @@
       "frameId": null,
       "index": "dad",
       "roundness": null,
-      "seed": 16345,
+      "seed": 26345,
       "version": 3,
-      "versionNonce": 16346,
+      "versionNonce": 26346,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -309,16 +309,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18001,
+      "seed": 28001,
       "version": 3,
-      "versionNonce": 18002,
+      "versionNonce": 28002,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000b6",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[00 自序]]",
       "locked": false,
@@ -345,9 +340,9 @@
       "frameId": null,
       "index": "d2",
       "roundness": null,
-      "seed": 18003,
+      "seed": 28003,
       "version": 3,
-      "versionNonce": 18004,
+      "versionNonce": 28004,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -387,20 +382,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18005,
+      "seed": 28005,
       "version": 3,
-      "versionNonce": 18006,
+      "versionNonce": 28006,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000b6",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000b7",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[01 哲学是什么与哲学有什么用]]",
       "locked": false,
@@ -427,9 +413,9 @@
       "frameId": null,
       "index": "d4",
       "roundness": null,
-      "seed": 18007,
+      "seed": 28007,
       "version": 3,
-      "versionNonce": 18008,
+      "versionNonce": 28008,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -469,20 +455,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18009,
+      "seed": 28009,
       "version": 3,
-      "versionNonce": 18010,
+      "versionNonce": 28010,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000b7",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000b8",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[02 希腊自然哲学]]",
       "locked": false,
@@ -509,9 +486,9 @@
       "frameId": null,
       "index": "d6",
       "roundness": null,
-      "seed": 18011,
+      "seed": 28011,
       "version": 3,
-      "versionNonce": 18012,
+      "versionNonce": 28012,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -551,20 +528,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18013,
+      "seed": 28013,
       "version": 3,
-      "versionNonce": 18014,
+      "versionNonce": 28014,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000b8",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000b9",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[03 希腊形而上学的源端]]",
       "locked": false,
@@ -591,9 +559,9 @@
       "frameId": null,
       "index": "d8",
       "roundness": null,
-      "seed": 18015,
+      "seed": 28015,
       "version": 3,
-      "versionNonce": 18016,
+      "versionNonce": 28016,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -633,20 +601,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18017,
+      "seed": 28017,
       "version": 3,
-      "versionNonce": 18018,
+      "versionNonce": 28018,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000b9",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000ba",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[04 希腊怀疑论与道德哲学]]",
       "locked": false,
@@ -673,9 +632,9 @@
       "frameId": null,
       "index": "da",
       "roundness": null,
-      "seed": 18019,
+      "seed": 28019,
       "version": 3,
-      "versionNonce": 18020,
+      "versionNonce": 28020,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -715,20 +674,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18021,
+      "seed": 28021,
       "version": 3,
-      "versionNonce": 18022,
+      "versionNonce": 28022,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000ba",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000bb",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[05 希腊实在论哲学]]",
       "locked": false,
@@ -755,9 +705,9 @@
       "frameId": null,
       "index": "dc",
       "roundness": null,
-      "seed": 18023,
+      "seed": 28023,
       "version": 3,
-      "versionNonce": 18024,
+      "versionNonce": 28024,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -797,16 +747,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18025,
+      "seed": 28025,
       "version": 3,
-      "versionNonce": 18026,
+      "versionNonce": 28026,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000bb",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[06 希腊哲学的衰颓]]",
       "locked": false,
@@ -833,9 +778,9 @@
       "frameId": null,
       "index": "de",
       "roundness": null,
-      "seed": 18027,
+      "seed": 28027,
       "version": 3,
-      "versionNonce": 18028,
+      "versionNonce": 28028,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -875,16 +820,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18029,
+      "seed": 28029,
       "version": 3,
-      "versionNonce": 18030,
+      "versionNonce": 28030,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000bd",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[07 中世纪基督教哲学]]",
       "locked": false,
@@ -911,9 +851,9 @@
       "frameId": null,
       "index": "d10",
       "roundness": null,
-      "seed": 18031,
+      "seed": 28031,
       "version": 3,
-      "versionNonce": 18032,
+      "versionNonce": 28032,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -953,24 +893,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18033,
+      "seed": 28033,
       "version": 3,
-      "versionNonce": 18034,
+      "versionNonce": 28034,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000bd",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000be",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000c3",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[08 近代哲学的转向与英国经验论]]",
       "locked": false,
@@ -997,9 +924,9 @@
       "frameId": null,
       "index": "d12",
       "roundness": null,
-      "seed": 18035,
+      "seed": 28035,
       "version": 3,
-      "versionNonce": 18036,
+      "versionNonce": 28036,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1039,24 +966,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18037,
+      "seed": 28037,
       "version": 3,
-      "versionNonce": 18038,
+      "versionNonce": 28038,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000be",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000bf",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000c4",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[09 欧洲大陆唯理论哲学]]",
       "locked": false,
@@ -1083,9 +997,9 @@
       "frameId": null,
       "index": "d14",
       "roundness": null,
-      "seed": 18039,
+      "seed": 28039,
       "version": 3,
-      "versionNonce": 18040,
+      "versionNonce": 28040,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1125,20 +1039,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18041,
+      "seed": 28041,
       "version": 3,
-      "versionNonce": 18042,
+      "versionNonce": 28042,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000bf",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000c5",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[10 18世纪法国启蒙哲学]]",
       "locked": false,
@@ -1165,9 +1070,9 @@
       "frameId": null,
       "index": "d16",
       "roundness": null,
-      "seed": 18043,
+      "seed": 28043,
       "version": 3,
-      "versionNonce": 18044,
+      "versionNonce": 28044,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1207,20 +1112,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18045,
+      "seed": 28045,
       "version": 3,
-      "versionNonce": 18046,
+      "versionNonce": 28046,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000c1",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000c2",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[12 从费希特到黑格尔]]",
       "locked": false,
@@ -1247,9 +1143,9 @@
       "frameId": null,
       "index": "d18",
       "roundness": null,
-      "seed": 18047,
+      "seed": 28047,
       "version": 3,
-      "versionNonce": 18048,
+      "versionNonce": 28048,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1289,16 +1185,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18049,
+      "seed": 28049,
       "version": 3,
-      "versionNonce": 18050,
+      "versionNonce": 28050,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000c2",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[13 修订版后记]]",
       "locked": false,
@@ -1325,9 +1216,9 @@
       "frameId": null,
       "index": "d1a",
       "roundness": null,
-      "seed": 18051,
+      "seed": 28051,
       "version": 3,
-      "versionNonce": 18052,
+      "versionNonce": 28052,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1367,28 +1258,11 @@
       "roundness": {
         "type": 3
       },
-      "seed": 18053,
+      "seed": 28053,
       "version": 3,
-      "versionNonce": 18054,
+      "versionNonce": 28054,
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "a00000000000000c1",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000c3",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000c4",
-          "type": "arrow"
-        },
-        {
-          "id": "a00000000000000c5",
-          "type": "arrow"
-        }
-      ],
+      "boundElements": [],
       "updated": 1,
       "link": "[[11 康德的批判哲学]]",
       "locked": false,
@@ -1415,9 +1289,9 @@
       "frameId": null,
       "index": "d1c",
       "roundness": null,
-      "seed": 18055,
+      "seed": 28055,
       "version": 3,
-      "versionNonce": 18056,
+      "versionNonce": 28056,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1455,9 +1329,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18057,
+      "seed": 28057,
       "version": 3,
-      "versionNonce": 18058,
+      "versionNonce": 28058,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1475,16 +1349,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000a8",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000a9",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1510,9 +1376,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18059,
+      "seed": 28059,
       "version": 3,
-      "versionNonce": 18060,
+      "versionNonce": 28060,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1530,16 +1396,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000a9",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000aa",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1565,9 +1423,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18061,
+      "seed": 28061,
       "version": 3,
-      "versionNonce": 18062,
+      "versionNonce": 28062,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1585,16 +1443,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000aa",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000ab",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1620,9 +1470,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18063,
+      "seed": 28063,
       "version": 3,
-      "versionNonce": 18064,
+      "versionNonce": 28064,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1640,16 +1490,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000ab",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000ac",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1675,9 +1517,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18065,
+      "seed": 28065,
       "version": 3,
-      "versionNonce": 18066,
+      "versionNonce": 28066,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1695,16 +1537,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000ac",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000ad",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1730,9 +1564,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18067,
+      "seed": 28067,
       "version": 3,
-      "versionNonce": 18068,
+      "versionNonce": 28068,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1750,16 +1584,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000ad",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000ae",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1785,9 +1611,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18069,
+      "seed": 28069,
       "version": 3,
-      "versionNonce": 18070,
+      "versionNonce": 28070,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1805,16 +1631,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000af",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000b0",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1840,9 +1658,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18071,
+      "seed": 28071,
       "version": 3,
-      "versionNonce": 18072,
+      "versionNonce": 28072,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1860,16 +1678,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000b0",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000b1",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1895,9 +1705,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18073,
+      "seed": 28073,
       "version": 3,
-      "versionNonce": 18074,
+      "versionNonce": 28074,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1915,16 +1725,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000b1",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000b2",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -1950,9 +1752,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18075,
+      "seed": 28075,
       "version": 3,
-      "versionNonce": 18076,
+      "versionNonce": 28076,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -1970,16 +1772,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000b3",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000b4",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -2005,9 +1799,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18077,
+      "seed": 28077,
       "version": 3,
-      "versionNonce": 18078,
+      "versionNonce": 28078,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2025,16 +1819,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000b4",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000b5",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -2060,9 +1846,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18079,
+      "seed": 28079,
       "version": 3,
-      "versionNonce": 18080,
+      "versionNonce": 28080,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2080,16 +1866,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000b0",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000b3",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -2113,9 +1891,9 @@
       "frameId": null,
       "index": "d29",
       "roundness": null,
-      "seed": 18081,
+      "seed": 28081,
       "version": 3,
-      "versionNonce": 18082,
+      "versionNonce": 28082,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2153,9 +1931,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18083,
+      "seed": 28083,
       "version": 3,
-      "versionNonce": 18084,
+      "versionNonce": 28084,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2173,16 +1951,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000b1",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000b3",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -2206,9 +1976,9 @@
       "frameId": null,
       "index": "d2b",
       "roundness": null,
-      "seed": 18085,
+      "seed": 28085,
       "version": 3,
-      "versionNonce": 18086,
+      "versionNonce": 28086,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2246,9 +2016,9 @@
       "roundness": {
         "type": 2
       },
-      "seed": 18087,
+      "seed": 28087,
       "version": 3,
-      "versionNonce": 18088,
+      "versionNonce": 28088,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
@@ -2266,16 +2036,8 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "c00000000000000b2",
-        "focus": 0,
-        "gap": 6
-      },
-      "endBinding": {
-        "elementId": "c00000000000000b3",
-        "focus": 0,
-        "gap": 6
-      },
+      "startBinding": null,
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
@@ -2299,9 +2061,9 @@
       "frameId": null,
       "index": "d2d",
       "roundness": null,
-      "seed": 18089,
+      "seed": 28089,
       "version": 3,
-      "versionNonce": 18090,
+      "versionNonce": 28090,
       "isDeleted": false,
       "boundElements": [],
       "updated": 1,
