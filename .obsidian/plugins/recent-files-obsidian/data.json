@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "西方哲学史讲演录",
+      "path": "西方哲学史讲演录/西方哲学史讲演录.md"
+    },
+    {
       "basename": "人物关系",
       "path": "西方哲学史讲演录/白板/人物关系.canvas"
+    },
+    {
+      "basename": "全书线索",
+      "path": "西方哲学史讲演录/白板/全书线索.excalidraw"
+    },
+    {
+      "basename": "霍布斯",
+      "path": "西方哲学史讲演录/人物/霍布斯.md"
     },
     {
       "basename": "知识图谱",
@@ -11,14 +23,6 @@
     {
       "basename": "全书线索",
       "path": "西方哲学史讲演录/白板/全书线索.canvas"
-    },
-    {
-      "basename": "全书线索",
-      "path": "西方哲学史讲演录/白板/全书线索.excalidraw"
-    },
-    {
-      "basename": "西方哲学史讲演录",
-      "path": "西方哲学史讲演录/西方哲学史讲演录.md"
     },
     {
       "basename": "人物关系",
@@ -195,10 +199,6 @@
     {
       "basename": "德谟克利特",
       "path": "西方哲学史讲演录/人物/德谟克利特.md"
-    },
-    {
-      "basename": "11 康德的批判哲学",
-      "path": "西方哲学史讲演录/章节/11 康德的批判哲学.md"
     }
   ],
   "omittedPaths": [],
