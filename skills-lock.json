@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "book-analyzer": {
+      "source": "tuan3w/obsidian-vault-agent",
+      "sourceType": "github",
+      "skillPath": "skills/book-analyzer/SKILL.md",
+      "computedHash": "788407a4f519eb4bc7940339099a9b7e069735fed2cadb35c4e25bbeef5f1a42"
+    },
+    "lecture-notes": {
+      "source": "emmsixx/skills",
+      "sourceType": "github",
+      "skillPath": "lecture-notes/SKILL.md",
+      "computedHash": "713fd99d3178a4339a70d01ae63981b1d1238fb3dd186f3d7d7987001d984ccb"
+    }
+  }
+}
